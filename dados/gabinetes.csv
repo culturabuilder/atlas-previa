@@ -1,0 +1,586 @@
+﻿id;nome;casa;assessores;folha_mensal;custo_ano_total;base
+br-p-cd-160674;Hugo Motta;camara;21;158396,46;2041501,74;estimativa
+br-p-cd-178937;Altineu Côrtes;camara;16;146047,28;1788997,19;estimativa
+br-p-cd-178854;Elmar Nascimento;camara;16;145521,92;1843120,37;estimativa
+br-p-cd-204426;Carlos Veras;camara;22;120562,87;1908753,57;estimativa
+br-p-cd-220669;Lula da Fonte;camara;23;165292,29;2220987,27;estimativa
+br-p-cd-220561;Delegada Katarina;camara;25;165678,71;2205011,96;estimativa
+br-p-cd-178933;Sergio Souza;camara;12;154912,32;2022743,63;estimativa
+br-p-sf-3830;Davi Alcolumbre;senado;24;0;647067,61;real (último mês)
+br-p-sf-3777;Eduardo Gomes;senado;84;0;624154,25;real (último mês)
+br-p-sf-5008;Humberto Costa;senado;35;0;994718,10;real (último mês)
+br-p-sf-5998;Daniella Ribeiro;senado;38;0;840609,25;real (último mês)
+br-p-sf-475;Confúcio Moura;senado;38;0;649623,55;real (último mês)
+br-p-sf-4811;Laércio Oliveira;senado;37;0;1062137,33;real (último mês)
+br-p-cd-92102;Leur Lomanto Júnior;camara;24;160536,55;2087639,25;estimativa
+br-p-cd-141531;Rodrigo de Castro;camara;23;132511,30;1795607,83;estimativa
+br-p-cd-66385;Julio Arcoverde;camara;22;158817,92;2041829,82;estimativa
+br-p-cd-209787;Nikolas Ferreira;camara;10;117297,08;1648124,89;estimativa
+br-p-cd-178860;Paulo Azi;camara;24;165665,40;2083243,96;estimativa
+br-p-cd-204572;Capitão Alberto Neto;camara;17;145920,26;1772188,30;estimativa
+br-p-cd-74075;Elcione Barbalho;camara;14;164993,04;1929848,91;estimativa
+br-p-cd-74574;Paulo Magalhães;camara;25;165685,18;2138283,35;estimativa
+br-p-cd-160666;Félix Mendonça Júnior;camara;24;157044,99;2079413,69;estimativa
+br-p-cd-143632;Domingos Neto;camara;24;158247,81;2073763,39;estimativa
+br-p-cd-160527;Aguinaldo Ribeiro;camara;20;162739,91;2049873,31;estimativa
+br-p-cd-178972;Alex Manente;camara;20;165297,79;1964929,33;estimativa
+br-p-cd-178881;Aluisio Mendes;camara;17;148701,46;1897727,62;estimativa
+br-p-cd-139285;Lídice da Mata;camara;22;160926,36;2117762,96;estimativa
+br-p-cd-91228;Waldemar Oliveira;camara;25;165762,90;2109724,30;estimativa
+br-p-cd-220588;Roberto Duarte;camara;22;139757,15;1920088,71;estimativa
+br-p-cd-220599;Marcelo Crivella;camara;22;165794,69;2145035,80;estimativa
+br-p-cd-220543;Ricardo Ayres;camara;25;165778,92;2079990,28;estimativa
+br-p-cd-74160;Patrus Ananias;camara;18;141358,63;1925026,47;estimativa
+br-p-cd-74041;Luiz Couto;camara;21;165723,38;2166700,11;estimativa
+br-p-cd-74398;Maria do Rosário;camara;19;158395,69;2155620,32;estimativa
+br-p-cd-178987;Orlando Silva;camara;24;165741,55;2149930,33;estimativa
+br-p-cd-178908;Delegado Éder Mauro;camara;20;165645,63;2061116,83;estimativa
+br-p-cd-178887;Rubens Pereira Júnior;camara;20;146611,86;1924181,61;estimativa
+br-p-cd-73801;Renildo Calheiros;camara;23;152685,97;2022567,23;estimativa
+br-p-cd-204374;Bia Kicis;camara;18;144530,29;1954736,47;estimativa
+br-p-cd-204460;Carlos Jordy;camara;23;165731,00;2154500,58;estimativa
+br-p-cd-178873;Helder Salomão;camara;24;165551,93;2093860,90;estimativa
+br-p-cd-220555;Daiana Santos;camara;15;149723,81;1931364,33;estimativa
+br-p-cd-153423;Renilce Nicodemos;camara;25;165499,37;2175080,37;estimativa
+br-p-cd-220558;Zé Trovão;camara;22;165786,95;2150759,23;estimativa
+br-p-cd-160601;Pr. Marco Feliciano;camara;9;165801,28;2161763,99;estimativa
+br-p-cd-74454;Eunício Oliveira;camara;19;165773,97;2322872,15;estimativa
+br-p-cd-178835;Afonso Motta;camara;25;164112,43;2149321,04;estimativa
+br-p-cd-160600;Arthur Oliveira Maia;camara;17;164502,11;2186366,38;estimativa
+br-p-cd-204472;José Medeiros;camara;24;152083,99;2006856,11;estimativa
+br-p-cd-178934;Toninho Wandscheer;camara;25;165638,29;2157374,03;estimativa
+br-p-cd-220546;Rodolfo Nogueira;camara;23;157904,37;2168186,46;estimativa
+br-p-cd-160758;Domingos Sávio;camara;24;160005,77;2069633,91;estimativa
+br-p-cd-204535;Sâmia Bomfim;camara;20;165051,43;2032317,72;estimativa
+br-p-cd-204501;Alencar Santana;camara;25;165676,46;2096046,04;estimativa
+br-p-cd-204379;Acácio Favacho;camara;24;165567,64;2148349,92;estimativa
+br-p-cd-74554;José Rocha;camara;15;163164,67;2030575,60;estimativa
+br-p-cd-220590;Coronel Ulysses;camara;25;165460,95;2142334,03;estimativa
+br-p-cd-204398;Felipe Francischini;camara;22;149134,76;2049279,23;estimativa
+br-p-cd-141488;Paulo Teixeira;camara;21;157458,84;1877690,75;estimativa
+br-p-cd-178905;Fabio Garcia;camara;18;150814,66;1854892,17;estimativa
+br-p-cd-204404;Lucas Redecker;camara;14;155724,28;2003528,77;estimativa
+br-p-cd-220684;Tião Medeiros;camara;11;141375,20;1958026,53;estimativa
+br-p-cd-178943;Marcos Soares;camara;25;165399,32;2004716,57;estimativa
+br-p-cd-204355;da Vitoria;camara;23;162005,60;2077547,36;estimativa
+br-p-cd-220637;Marina Silva;camara;9;165109,82;1881562,42;estimativa
+br-p-cd-66828;Fausto Pinato;camara;25;165481,69;2229270,96;estimativa
+br-p-cd-204474;Juarez Costa;camara;25;165278,90;2122766,14;estimativa
+br-p-cd-220539;Defensor Stélio Dener;camara;24;157251,36;1961196,87;estimativa
+br-p-cd-157130;Túlio Gadêlha;camara;20;132648,01;1881403,77;estimativa
+br-p-cd-220576;Alfredo Gaspar;camara;18;135444,65;1744362,19;estimativa
+br-p-cd-220594;Coronel Assis;camara;20;165490,48;2016381,31;estimativa
+br-p-cd-220585;Mersinho Lucena;camara;14;165794,06;2078600,79;estimativa
+br-p-cd-220648;Marangoni;camara;25;165630,68;2095939,21;estimativa
+br-p-cd-204566;Marreca Filho;camara;21;160356,44;1899371,07;estimativa
+br-p-cd-72442;Felipe Carreras;camara;14;157489,92;2079433,79;estimativa
+br-p-cd-178963;Covatti Filho;camara;17;123617,47;1614327,93;estimativa
+br-p-cd-220547;Marcos Pollon;camara;20;149295,17;1907748,89;estimativa
+br-p-cd-141485;Luiz Carlos Busato;camara;24;164991,00;2236496,02;estimativa
+br-p-cd-220573;Dorinaldo Malafaia;camara;23;148111,33;1920798,09;estimativa
+br-p-cd-220569;Silvye Alves;camara;10;162216,02;2056749,96;estimativa
+br-p-cd-220583;Delegado Fabio Costa;camara;22;153991,67;2024470,30;estimativa
+br-p-cd-204367;Daniel Freitas;camara;20;155052,58;2024086,05;estimativa
+br-p-cd-204427;Fernando Rodolfo;camara;19;142381,84;1792836,93;estimativa
+br-p-cd-204531;Guilherme Derrite;camara;6;121389,62;1602393,81;estimativa
+br-p-cd-220626;Rafael Simoes;camara;22;152053,27;2050144,23;estimativa
+br-p-cd-73768;Dilceu Sperafico;camara;24;158372,63;2085610,28;estimativa
+br-p-cd-74856;Laura Carneiro;camara;23;165794,81;2171173,72;estimativa
+br-p-cd-160512;Aureo Ribeiro;camara;25;134921,37;1700491,88;estimativa
+br-p-cd-204494;Fred Costa;camara;23;161363,59;2050765,39;estimativa
+br-p-cd-220658;Luiz Gastão;camara;13;155224,05;1992230,69;estimativa
+br-p-cd-220703;Neto Carletto;camara;25;165708,12;2122766,47;estimativa
+br-p-cd-220586;Rafael Brito;camara;16;152310,52;1983580,32;estimativa
+br-p-cd-220618;Sargento Portugal;camara;22;158196,35;2013101,89;estimativa
+br-p-cd-74262;Carlos Sampaio;camara;16;136514,97;1758361,20;estimativa
+br-p-cd-74057;Alice Portugal;camara;21;165286,77;2131783,07;estimativa
+br-p-cd-141450;Hugo Leal;camara;22;141327,65;1903749,38;estimativa
+br-p-cd-160575;Erika Kokay;camara;23;165614,78;2064799,62;estimativa
+br-p-cd-178986;Nilto Tatto;camara;25;165738,98;2118162,62;estimativa
+br-p-cd-204462;Chris Tonietto;camara;15;136476,14;1744788,58;estimativa
+br-p-cd-191923;Flávio Nogueira;camara;23;158355,04;2214000,92;estimativa
+br-p-cd-220556;Ana Paula Lima;camara;23;150295,46;2014777,02;estimativa
+br-p-cd-220595;Coronel Fernanda;camara;24;155646,14;1959236,19;estimativa
+br-p-cd-162067;Kiko Celeguim;camara;24;156396,73;2095806,30;estimativa
+br-p-cd-220654;Delegado Paulo Bilynskyj;camara;12;147278,70;1984359,15;estimativa
+br-p-cd-141516;Paulo Abi-Ackel;camara;15;137378,12;1888085,69;estimativa
+br-p-cd-204506;Marcos Pereira;camara;15;160466,19;2016047,17;estimativa
+br-p-cd-178829;Capitão Augusto;camara;23;139803,22;1904971,02;estimativa
+br-p-cd-204534;Tabata Amaral;camara;7;81885,16;1456611,71;estimativa
+br-p-cd-220532;Rafael Prudente;camara;22;155350,06;2013570,60;estimativa
+br-p-cd-171786;Miguel Ângelo;camara;25;165458,21;2079757,53;estimativa
+br-p-cd-204372;Julio Cesar Ribeiro;camara;21;140077,33;1791618,96;estimativa
+br-p-cd-220559;Julia Zanatta;camara;21;130226,46;1812736,76;estimativa
+br-p-cd-74161;Reginaldo Lopes;camara;23;143999,17;1796391,06;estimativa
+br-p-cd-221338;Professora Luciene Cavalcante;camara;12;153553,10;1935527,55;estimativa
+br-p-cd-204369;Caroline de Toni;camara;11;98814,33;1395798,50;estimativa
+br-p-cd-74858;Lindbergh Farias;camara;15;165637,72;1929769,38;estimativa
+br-p-cd-220609;Maurício Carvalho;camara;16;147818,62;2035579,95;estimativa
+br-p-cd-204479;Nicoletti;camara;19;111860,43;1668114,54;estimativa
+br-p-cd-141408;Cleber Verde;camara;24;152728,77;1995408,70;estimativa
+br-p-cd-204360;Silvia Cristina;camara;20;165761,90;2132593,21;estimativa
+br-p-cd-62881;Danilo Forte;camara;23;143311,62;1965042,92;estimativa
+br-p-cd-220597;Thiago Flores;camara;25;165419,00;2114757,51;estimativa
+br-p-cd-220649;Delegado da Cunha;camara;17;164790,36;2152065,17;estimativa
+br-p-cd-178946;Soraya Santos;camara;16;152747,97;1819838,34;estimativa
+br-p-cd-178929;Diego Garcia;camara;15;133476,14;1982114,94;estimativa
+br-p-cd-204436;Isnaldo Bulhões Jr.;camara;21;163876,00;1927569,48;estimativa
+br-p-cd-220691;Diego Coronel;camara;19;134718,41;1864974,11;estimativa
+br-p-cd-204485;Luiz Carlos Motta;camara;21;146397,41;1861775,84;estimativa
+br-p-cd-98057;Lafayette de Andrada;camara;23;152685,87;2073886,22;estimativa
+br-p-cd-204395;Pedro Lupion;camara;12;165715,45;1963525,86;estimativa
+br-p-cd-204557;Sidney Leite;camara;17;135647,87;1923542,66;estimativa
+br-p-cd-220685;Paulo Litro;camara;17;165793,25;2087623,92;estimativa
+br-p-cd-123086;Átila Lira;camara;23;162927,02;2081218,27;estimativa
+br-p-cd-220668;Maria Arraes;camara;23;163470,12;2136169,68;estimativa
+br-p-cd-204481;Dr. Jaziel;camara;24;163481,32;2012048,34;estimativa
+br-p-cd-204541;Eduardo Bismarck;camara;18;165083,69;2010219,98;estimativa
+br-p-cd-220686;Duarte Jr.;camara;16;160308,79;1981991,52;estimativa
+br-p-cd-204464;Talíria Petrone;camara;16;152736,04;1903265,70;estimativa
+br-p-cd-178947;Sóstenes Cavalcante;camara;25;148405,19;1868408,75;estimativa
+br-p-cd-204512;Delegado Marcelo Freitas;camara;25;165571,75;2230807,72;estimativa
+br-p-cd-220529;Gilson Daniel;camara;21;133070,42;1808886,84;estimativa
+br-p-cd-73486;Pompeo de Mattos;camara;23;157230,20;2126879,18;estimativa
+br-p-cd-188097;Merlong Solano;camara;24;158401,87;2167153,36;estimativa
+br-p-cd-204492;Paulo Guedes;camara;24;165356,50;2063007,47;estimativa
+br-p-cd-204396;Vermelho;camara;25;164536,33;2111281,32;estimativa
+br-p-cd-204480;Rogério Correia;camara;24;165661,27;2137663,48;estimativa
+br-p-cd-220700;Florentino Neto;camara;22;148445,74;1895001,94;estimativa
+br-p-cd-73778;Luiz Carlos Hauly;camara;13;159099,12;2034978,74;estimativa
+br-p-cd-74317;Júlio Cesar;camara;20;124695,39;1665935,16;estimativa
+br-p-cd-122158;Pedro Paulo;camara;9;129237,42;1830191,71;estimativa
+br-p-cd-178858;Mário Negromonte Jr.;camara;17;165725,76;2108546,54;estimativa
+br-p-cd-178983;Marcio Alvino;camara;18;145944,13;1689137,61;estimativa
+br-p-cd-204559;Zé Neto;camara;24;162277,20;2037011,20;estimativa
+br-p-cd-220714;Adail Filho;camara;25;165286,45;2137688,75;estimativa
+br-p-cd-220653;Fábio Teruel;camara;10;149326,32;1824404,75;estimativa
+br-p-cd-141464;José Airton Félix Cirilo;camara;24;158244,12;1986396,66;estimativa
+br-p-cd-220548;Camila Jara;camara;18;161645,97;2123043,48;estimativa
+br-p-cd-92699;Fernando Monteiro;camara;20;165566,70;2117504,71;estimativa
+br-p-cd-74090;Átila Lins;camara;25;165177,06;2273170,38;estimativa
+br-p-cd-220712;Fausto Jr.;camara;12;161520,52;2010023,56;estimativa
+br-p-cd-204416;Sanderson;camara;14;157071,27;2014522,32;estimativa
+br-p-cd-204536;Kim Kataguiri;camara;15;135552,07;1668562,85;estimativa
+br-p-cd-220603;Dani Cunha;camara;21;162904,10;2122271,09;estimativa
+br-p-cd-198783;Emanuel Pinheiro Neto;camara;23;155325,58;2006419,96;estimativa
+br-p-cd-204486;Mauro Benevides Filho;camara;22;136036,11;1814474,08;estimativa
+br-p-cd-220690;Capitão Alden;camara;23;165742,32;2088417,37;estimativa
+br-p-cd-178896;Newton Cardoso Jr;camara;22;156572,13;2000564,02;estimativa
+br-p-cd-74043;Wellington Roberto;camara;25;165789,82;2143097,53;estimativa
+br-p-cd-204550;Júnior Mano;camara;25;164731,68;1989655,39;estimativa
+br-p-cd-204491;Gilberto Abramo;camara;12;154103,16;1939217,85;estimativa
+br-p-cd-74646;Aécio Neves;camara;25;165466,11;2003578,62;estimativa
+br-p-cd-141456;Jilmar Tatto;camara;25;164833,33;2046108,50;estimativa
+br-p-cd-220604;Marcos Tavares;camara;22;160380,17;2064836,65;estimativa
+br-p-cd-220578;Josenildo;camara;23;153998,36;2061121,81;estimativa
+br-p-cd-204517;Zé Vitor;camara;25;165522,40;2071835,60;estimativa
+br-p-cd-230767;Rodrigo da Zaeli;camara;24;155685,43;2099357,50;estimativa
+br-p-cd-104552;Socorro Neri;camara;24;162786,44;2122702,26;estimativa
+br-p-cd-220632;Ana Pimentel;camara;21;131827,84;1897989,02;estimativa
+br-p-cd-204497;Júnior Ferrari;camara;24;155925,93;1885194,84;estimativa
+br-p-cd-143084;Tiago Dimas;camara;20;165434,36;2037358,54;estimativa
+br-p-cd-141555;Vinicius Carvalho;camara;17;151646,84;1954534,73;estimativa
+br-p-cd-204540;Maria Rosas;camara;23;132132,65;1880585,26;estimativa
+br-p-cd-74156;Leonardo Monteiro;camara;25;165618,60;2145656,34;estimativa
+br-p-cd-160161;Marcelo Queiroz;camara;25;165731,85;2039997,13;estimativa
+br-p-cd-220640;Juliana Cardoso;camara;24;161529,24;2064365,07;estimativa
+br-p-cd-220672;Henderson Pinto;camara;24;165250,85;2123740,87;estimativa
+br-p-cd-220607;Max Lemos;camara;22;157357,09;2083319,97;estimativa
+br-p-cd-221329;Ricardo Abrão;camara;24;154248,40;1961854,17;estimativa
+br-p-cd-220650;Paulo Alexandre Barbosa;camara;12;135124,12;1629247,32;estimativa
+br-p-cd-220572;Marussa Boldrin;camara;19;155231,78;2151421,91;estimativa
+br-p-cd-220574;Cabo Gilberto Silva;camara;25;165703,10;2104708,01;estimativa
+br-p-cd-74428;Mendonça Filho;camara;18;132159,56;1817932,65;estimativa
+br-p-cd-160559;Alceu Moreira;camara;21;165459,76;2231274,88;estimativa
+br-p-cd-226075;Priscila Costa;camara;21;164177,50;1831730,10;estimativa
+br-p-cd-160556;Padre João;camara;16;163555,10;2230605,00;estimativa
+br-p-sf-5523;Otto Alencar;senado;49;0;621296,75;real (último mês)
+br-p-sf-5899;Vanderlan Cardoso;senado;39;0;527540,75;real (último mês)
+br-p-sf-4994;Eduardo Braga;senado;39;0;774910,07;real (último mês)
+br-p-sf-70;Renan Calheiros;senado;52;0;666293,39;real (último mês)
+br-p-sf-35;Jader Barbalho;senado;22;0;546098,77;real (último mês)
+br-p-sf-5748;Veneziano Vital do Rêgo;senado;53;0;660830,82;real (último mês)
+br-p-sf-5988;Soraya Thronicke;senado;52;0;892753,88;real (último mês)
+br-p-sf-5386;Professora Dorinha Seabra;senado;56;0;760482,30;real (último mês)
+br-p-sf-5959;Styvenson Valentim;senado;18;0;820774,65;real (último mês)
+br-p-sf-5924;Oriovisto Guimarães;senado;13;0;463557,99;real (último mês)
+br-p-sf-4531;Jayme Campos;senado;40;0;895165,50;real (último mês)
+br-p-sf-5525;Omar Aziz;senado;70;0;858595,96;real (último mês)
+br-p-sf-5718;Eliziane Gama;senado;67;0;983939,63;real (último mês)
+br-p-sf-5732;Rodrigo Pacheco;senado;36;0;740129,25;real (último mês)
+br-p-sf-6359;Lourdinha Pereira;senado;31;0;420326,64;real (último mês)
+br-p-sf-6342;Jorge Seif;senado;31;0;704002,31;real (último mês)
+br-p-sf-6340;Jaime Bagattoli;senado;37;0;795462,13;real (último mês)
+br-p-sf-631;Magno Malta;senado;34;0;695152,24;real (último mês)
+br-p-sf-5793;Dr. Hiran;senado;42;0;828458,11;real (último mês)
+br-p-sf-4694;Rogerio Marinho;senado;32;0;744570,18;real (último mês)
+br-p-sf-5352;Rogério Carvalho;senado;88;0;893079,86;real (último mês)
+br-p-sf-5953;Fabiano Contarato;senado;30;0;844974,85;real (último mês)
+br-p-sf-6336;Camilo Santana;senado;34;0;535341,18;real (último mês)
+br-p-sf-5411;Weverton;senado;0;0;886949,79;real (último mês)
+br-p-sf-5736;Tereza Cristina;senado;23;0;761541,29;real (último mês)
+br-p-sf-6341;Hamilton Mourão;senado;24;0;803118,53;real (último mês)
+br-p-sf-742;Marcelo Castro;senado;50;0;807945,03;real (último mês)
+br-p-sf-5672;Alan Rick;senado;37;0;765959,69;real (último mês)
+br-p-sf-5982;Alessandro Vieira;senado;35;0;887093,93;real (último mês)
+br-p-sf-6008;Giordano;senado;24;0;859302,52;real (último mês)
+br-p-sf-3806;Zequinha Marinho;senado;70;0;872710,07;real (último mês)
+br-p-sf-5502;Plínio Valério;senado;56;0;682571,21;real (último mês)
+br-p-sf-5906;Dra. Eudócia;senado;26;0;877622,25;real (último mês)
+br-p-sf-4642;Efraim Filho;senado;62;0;684679,35;real (último mês)
+br-p-sf-5973;Cid Gomes;senado;47;0;790020,61;real (último mês)
+br-p-sf-5783;Zenaide Maia;senado;31;0;804497,52;real (último mês)
+br-p-sf-5385;Irajá;senado;46;0;1054344,57;real (último mês)
+br-p-sf-4560;Sérgio Petecão;senado;34;0;705353,87;real (último mês)
+br-p-sf-5376;Mara Gabrilli;senado;23;0;684691,04;real (último mês)
+br-p-sf-6338;Teresa Leitão;senado;41;0;929453,34;real (último mês)
+br-p-sf-5936;Carlos Portinho;senado;28;0;918700,03;real (último mês)
+br-p-sf-4770;Izalci Lucas;senado;59;0;720839,73;real (último mês)
+br-p-sf-5894;Flávio Bolsonaro;senado;21;0;503896,49;real (último mês)
+br-p-sf-5974;Sargento Reginauro;senado;18;0;413809,57;real (último mês)
+br-p-sf-5012;Randolfe Rodrigues;senado;72;0;769190,50;real (último mês)
+br-p-sf-581;Jaques Wagner;senado;55;0;773492,29;real (último mês)
+br-p-sf-5979;Leila Barros;senado;43;0;581050,52;real (último mês)
+br-p-sf-22;Esperidião Amin;senado;35;0;898745,84;real (último mês)
+br-p-sf-6335;Damares Alves;senado;33;0;710182,07;real (último mês)
+br-p-sf-5207;Renan Filho;senado;16;0;573006,31;real (último mês)
+br-p-sf-6295;Carlos Fávaro;senado;24;0;631330,35;real (último mês)
+br-p-sf-5990;Carlos Viana;senado;28;0;932549,82;real (último mês)
+br-p-sf-5926;Lucas Barreto;senado;77;0;940663,05;real (último mês)
+br-p-sf-5070;Wilder Morais;senado;29;0;527684,02;real (último mês)
+br-p-sf-1173;Wellington Fagundes;senado;46;0;792034,52;real (último mês)
+br-p-sf-739;Ciro Nogueira;senado;49;0;722065,29;real (último mês)
+br-p-sf-5967;Angelo Coronel;senado;42;0;749543,09;real (último mês)
+br-p-sf-285;Marcio Bittar;senado;69;0;868918,27;real (último mês)
+br-p-sf-5985;Nelsinho Trad;senado;83;0;1029080,58;real (último mês)
+br-p-sf-5917;Fernando Dueire;senado;30;0;931375,00;real (último mês)
+br-p-sf-825;Paulo Paim;senado;46;0;820228,01;real (último mês)
+br-p-sf-1186;Luis Carlos Heinze;senado;23;0;674559,51;real (último mês)
+br-p-sf-6331;Sergio Moro;senado;21;0;843795,10;real (último mês)
+br-p-sf-470;Chico Rodrigues;senado;40;0;767362,85;real (último mês)
+br-p-sf-6009;Astronauta Marcos Pontes;senado;25;0;929278,47;real (último mês)
+br-p-sf-6010;Ivete da Silveira;senado;36;0;719871,52;real (último mês)
+br-p-sf-5942;Marcos do Val;senado;23;0;840408,20;real (último mês)
+br-p-sf-5422;Marcos Rogério;senado;58;0;858488,80;real (último mês)
+br-p-sf-4639;Beto Faro;senado;69;0;1047369,20;real (último mês)
+br-p-sf-5895;Jorge Kajuru;senado;30;0;403385,85;real (último mês)
+br-p-sf-6337;Cleitinho;senado;20;0;443954,44;real (último mês)
+br-p-cd-204508;Igor Timo;camara;24;165528,76;2188426,04;estimativa
+br-p-cd-141421;Eduardo da Fonte;camara;22;165700,35;2157897,60;estimativa
+br-p-cd-73788;Ricardo Barros;camara;19;146936,58;1852552,61;estimativa
+br-p-cd-204549;AJ Albuquerque;camara;14;122008,17;1686460,61;estimativa
+br-p-cd-178962;Carlos Gomes;camara;22;149303,22;1871796,26;estimativa
+br-p-cd-178945;Rosangela Gomes;camara;21;151943,75;1857511,94;estimativa
+br-p-cd-220683;Beto Richa;camara;19;164739,91;2065017,17;estimativa
+br-p-cd-179000;Marcelo Álvaro Antônio;camara;17;153075,61;2012955,19;estimativa
+br-p-cd-220628;Mauricio do Vôlei;camara;13;165781,26;2096673,04;estimativa
+br-p-cd-220682;Tadeu Veneri;camara;19;164552,35;2109036,99;estimativa
+br-p-cd-74295;Inácio Arruda;camara;16;106134,23;1344126,57;estimativa
+br-p-cd-74158;Mário Heringer;camara;24;157208,58;2016521,25;estimativa
+br-p-cd-220662;Lucas Ramos;camara;25;165778,02;2079773,48;estimativa
+br-p-cd-156190;Marcel van Hattem;camara;9;78057,70;1238762,24;estimativa
+br-p-cd-160632;Zé Silva;camara;25;165104,96;2099522,51;estimativa
+br-p-cd-141459;João Maia;camara;16;165520,96;2200094,94;estimativa
+br-p-cd-220624;Robinson Faria;camara;20;159576,22;2238160,69;estimativa
+br-p-cd-220571;Daniel Agrobom;camara;19;150396,28;1827101,88;estimativa
+br-p-cd-150418;Márcio Marinho;camara;24;152646,05;2040999,19;estimativa
+br-p-cd-220694;Ricardo Maia;camara;24;157177,70;1962016,73;estimativa
+br-p-cd-204419;Glaustin da Fokus;camara;24;162145,85;2073527,75;estimativa
+br-p-cd-198197;Greyce Elias;camara;25;162270,44;2075099,58;estimativa
+br-p-cd-178954;Lucio Mosquini;camara;18;124797,09;1798944,46;estimativa
+br-p-cd-220553;Denise Pessôa;camara;24;163202,67;2144526,84;estimativa
+br-p-cd-160592;Zeca Dirceu;camara;20;142616,13;1867208,02;estimativa
+br-p-cd-178970;João Daniel;camara;25;165536,77;2114729,74;estimativa
+br-p-cd-220602;Dimas Gadelha;camara;23;162544,55;1947503,30;estimativa
+br-p-cd-69871;Bacelar;camara;18;180291,43;2321443,07;estimativa
+br-p-cd-178931;Luciano Ducci;camara;25;164790,50;2086946,92;estimativa
+br-p-cd-204455;Luiz Lima;camara;21;165523,92;2059994,87;estimativa
+br-p-cd-221328;Adilson Barroso;camara;15;152005,44;2022760,32;estimativa
+br-p-cd-204560;Adolfo Viana;camara;20;152821,45;1975544,83;estimativa
+br-p-cd-204528;Adriana Ventura;camara;13;89674,21;1221815,10;estimativa
+br-p-cd-121948;Adriano do Baldy;camara;21;119316,69;1746072,86;estimativa
+br-p-cd-160508;Afonso Florence;camara;23;158856,97;1990439,40;estimativa
+br-p-cd-136811;Afonso Hamm;camara;24;155623,11;2084136,29;estimativa
+br-p-cd-204495;Airton Faleiro;camara;25;165677,13;1955886,64;estimativa
+br-p-cd-73579;Alberto Fraga;camara;22;145490,74;1839878,79;estimativa
+br-p-cd-220538;Albuquerque;camara;25;165785,75;2313400,87;estimativa
+br-p-cd-220542;Alexandre Guimarães;camara;24;164708,66;2198206,73;estimativa
+br-p-cd-160545;Alexandre Leite;camara;17;160097,10;1834616,48;estimativa
+br-p-cd-220554;Alexandre Lindenmeyer;camara;23;160052,11;2123204,21;estimativa
+br-p-cd-221148;Alfredinho;camara;25;165729,54;2132530,40;estimativa
+br-p-cd-178927;Aliel Machado;camara;20;129776,97;1824810,28;estimativa
+br-p-cd-204353;Aline Gurgel;camara;24;163427,34;1915303,71;estimativa
+br-p-cd-220707;Amanda Gentil;camara;13;124061,81;1588051,99;estimativa
+br-p-cd-204356;Amaro Neto;camara;11;157333,59;2026450,22;estimativa
+br-p-cd-220715;Amom Mandel;camara;17;155535,38;1756543,66;estimativa
+br-p-cd-107970;Ana Paula Leão;camara;20;165677,32;2131443,92;estimativa
+br-p-cd-178831;André Abdon;camara;25;165746,90;2189852,32;estimativa
+br-p-cd-220657;André Fernandes;camara;21;156017,07;1958239,76;estimativa
+br-p-cd-204423;André Ferreira;camara;23;154232,14;1978002,11;estimativa
+br-p-cd-133439;André Figueiredo;camara;22;148929,99;1940309,43;estimativa
+br-p-cd-178882;André Fufuca;camara;15;165755,39;1869432,24;estimativa
+br-p-cd-204515;André Janones;camara;9;149012,51;1947798,61;estimativa
+br-p-cd-220676;Andreia Siqueira;camara;17;164453,67;2106629,15;estimativa
+br-p-cd-123756;Antônia Lúcia;camara;25;165770,52;2026157,29;estimativa
+br-p-cd-220544;Antonio Andrade;camara;24;155691,67;2149847,45;estimativa
+br-p-cd-160553;Antonio Brito;camara;21;165733,64;2107201,77;estimativa
+br-p-cd-220638;Antonio Carlos Rodrigues;camara;25;165755,79;2033166,05;estimativa
+br-p-cd-220675;Antônio Doido;camara;22;158274,88;2215766,20;estimativa
+br-p-cd-220549;Any Ortiz;camara;13;151318,06;1872252,12;estimativa
+br-p-cd-73433;Arlindo Chinaglia;camara;21;165724,12;2103395,59;estimativa
+br-p-cd-141391;Arnaldo Jardim;camara;17;165271,03;2104506,70;estimativa
+br-p-cd-160541;Arthur Lira;camara;22;142046,15;1711179,08;estimativa
+br-p-cd-160665;Augusto Coutinho;camara;19;150381,39;2061919,44;estimativa
+br-p-cd-178975;Baleia Rossi;camara;14;126347,51;1733977,53;estimativa
+br-p-cd-220605;Bandeira de Mello;camara;18;157200,88;2019781,32;estimativa
+br-p-cd-220612;Bebeto;camara;25;165786,85;2151656,24;estimativa
+br-p-cd-73701;Benedita da Silva;camara;19;157732,08;1965586,85;estimativa
+br-p-cd-109429;Benes Leocádio;camara;23;159688,73;2117744,44;estimativa
+br-p-cd-204358;Beto Pereira;camara;24;165646,04;2119481,77;estimativa
+br-p-cd-220698;Beto Preto;camara;10;104938,36;1388239,64;estimativa
+br-p-cd-204388;Bibo Nunes;camara;17;132273,44;1957403,56;estimativa
+br-p-cd-160538;Bohn Gass;camara;18;165770,17;2182645,24;estimativa
+br-p-cd-210989;Bruno Farias;camara;25;147791,60;2059976,68;estimativa
+br-p-cd-220635;Bruno Ganem;camara;23;154474,94;1991207,87;estimativa
+br-p-cd-213762;Carla Dickson;camara;25;165606,42;2176248,12;estimativa
+br-p-cd-204361;Carlos Chiodini;camara;23;163124,13;1937576,04;estimativa
+br-p-cd-178993;Carlos Henrique Gaguim;camara;23;145486,94;1974089,90;estimativa
+br-p-cd-141398;Carlos Zarattini;camara;25;165536,92;2114461,48;estimativa
+br-p-cd-220704;Carol Dartora;camara;19;143920,35;1985307,04;estimativa
+br-p-cd-220699;Castro Neto;camara;17;128406,10;1819918,89;estimativa
+br-p-cd-206018;Célia Xakriabá;camara;22;165516,86;2155311,90;estimativa
+br-p-cd-178876;Célio Silveira;camara;25;164870,55;2076535,78;estimativa
+br-p-cd-204488;Célio Studart;camara;19;152928,19;1970441,31;estimativa
+br-p-cd-73441;Celso Russomanno;camara;23;133132,80;1637837,44;estimativa
+br-p-cd-204496;Celso Sabino;camara;13;164958,03;2147252,41;estimativa
+br-p-cd-204504;Cezinha de Madureira;camara;24;165684,22;2143812,96;estimativa
+br-p-cd-205476;Charles Fernandes;camara;24;165349,92;2045972,63;estimativa
+br-p-cd-74171;Chico Alencar;camara;15;152752,04;1960508,27;estimativa
+br-p-cd-220665;Clarissa Tércio;camara;19;165732,87;2145854,53;estimativa
+br-p-cd-74537;Claudio Cajado;camara;17;158443,40;2053279,88;estimativa
+br-p-cd-88256;Clodoaldo Magalhães;camara;21;164836,36;2176830,21;estimativa
+br-p-cd-98148;Cobalchini;camara;25;158621,21;2104144,31;estimativa
+br-p-cd-204378;Coronel Chrisóstomo;camara;25;162722,50;2069160,99;estimativa
+br-p-cd-220666;Coronel Meira;camara;24;150256,65;1948917,66;estimativa
+br-p-cd-220608;Cristiane Lopes;camara;22;165692,48;2160019,54;estimativa
+br-p-cd-141411;Dagoberto Nogueira;camara;24;165575,80;2204379,16;estimativa
+br-p-cd-220692;Dal Barreto;camara;24;162909,92;2069073,80;estimativa
+br-p-cd-74467;Damião Feliciano;camara;21;114535,62;1582630,96;estimativa
+br-p-cd-220629;Dandara;camara;21;160552,59;1963803,24;estimativa
+br-p-cd-74060;Daniel Almeida;camara;25;165778,74;2106356,74;estimativa
+br-p-cd-220582;Daniel Barbosa;camara;15;165746,29;2015046,81;estimativa
+br-p-cd-204409;Daniel Trzeciak;camara;20;165246,74;2190402,32;estimativa
+br-p-cd-204459;Daniela do Waguinho;camara;21;142451,76;1732761,04;estimativa
+br-p-cd-220557;Daniela Reinehr;camara;22;162825,52;2172559,54;estimativa
+br-p-cd-160552;Danrlei de Deus Hinterholz;camara;25;164856,14;2085707,37;estimativa
+br-p-cd-204511;David Soares;camara;22;149332,55;1973048,49;estimativa
+br-p-cd-220565;Delegada Adriana Accorsi;camara;21;165236,03;2088394,98;estimativa
+br-p-cd-220625;Delegada Ione;camara;22;159662,19;2148020,79;estimativa
+br-p-cd-220642;Delegado Bruno Lima;camara;22;163128,17;2205161,31;estimativa
+br-p-cd-220673;Delegado Caveira;camara;16;86658,75;1282180,87;estimativa
+br-p-cd-220701;Delegado Matheus Laiola;camara;23;157114,93;2090370,73;estimativa
+br-p-cd-220652;Delegado Palumbo;camara;23;158294,92;2011043,29;estimativa
+br-p-cd-220689;Detinha;camara;25;165685,02;1907846,34;estimativa
+br-p-cd-160588;Diego Andrade;camara;18;150967,27;1910615,44;estimativa
+br-p-cd-220671;Dilvanda Faro;camara;25;147072,71;1894721,84;estimativa
+br-p-cd-160599;Dimas Fabiano;camara;24;162896,42;2074831,27;estimativa
+br-p-cd-204450;Doutor Luizinho;camara;11;130741,88;1682727,26;estimativa
+br-p-cd-227991;Dr Flávio;camara;24;154150,41;2028921,63;estimativa
+br-p-cd-220614;Dr. Daniel Soranz;camara;23;165731,09;2017630,51;estimativa
+br-p-cd-220610;Dr. Fernando Máximo;camara;20;110227,04;1624310,04;estimativa
+br-p-cd-220688;Dr. Francisco;camara;24;164057,70;2168974,93;estimativa
+br-p-cd-204518;Dr. Frederico;camara;25;165516,99;2119219,62;estimativa
+br-p-cd-220570;Dr. Ismael Alexandrino;camara;25;150943,89;1992518,08;estimativa
+br-p-cd-204351;Dr. Luiz Ovando;camara;18;140147,72;1806669,30;estimativa
+br-p-cd-220528;Dr. Victor Linhalis;camara;20;129460,67;1825894,52;estimativa
+br-p-cd-204412;Dr. Zacharias Calil;camara;18;164129,98;2090963,97;estimativa
+br-p-cd-220674;Dra. Alessandra Haber;camara;23;162744,49;2084993,86;estimativa
+br-p-cd-220540;Duda Ramos;camara;23;136726,13;1814304,64;estimativa
+br-p-cd-220623;Duda Salabert;camara;10;117609,04;1616924,80;estimativa
+br-p-cd-220589;Eduardo Velloso;camara;24;162456,34;2164506,03;estimativa
+br-p-cd-204364;Eli Borges;camara;24;165696,32;2178212,45;estimativa
+br-p-cd-161550;Emidinho Madeira;camara;24;165677,46;2052462,24;estimativa
+br-p-cd-230765;Enfermeira Rejane;camara;19;161630,62;2073634,16;estimativa
+br-p-cd-220663;Eriberto Medeiros;camara;25;165430,95;2149323,66;estimativa
+br-p-cd-220645;Erika Hilton;camara;13;165755,36;1922540,65;estimativa
+br-p-cd-160640;Eros Biondini;camara;17;146373,82;1909960,86;estimativa
+br-p-cd-204482;Euclydes Pettersen;camara;22;154935,75;1791987,98;estimativa
+br-p-cd-178871;Evair Vieira de Melo;camara;15;165783,72;2133190,86;estimativa
+br-p-cd-220681;Fábio Macedo;camara;10;165773,44;2004614,78;estimativa
+br-p-cd-171623;Fabio Reis;camara;16;137639,92;1744067,48;estimativa
+br-p-cd-204368;Fabio Schiochet;camara;18;165574,92;2103734,96;estimativa
+br-p-cd-220646;Felipe Becari;camara;17;163348,87;2069210,50;estimativa
+br-p-cd-204407;Fernanda Melchionna;camara;24;180588,46;2216710,69;estimativa
+br-p-cd-220656;Fernanda Pessoa;camara;23;162138,15;1982590,95;estimativa
+br-p-cd-141431;Fernando Coelho Filho;camara;23;117633,30;1654545,67;estimativa
+br-p-cd-204445;Fernando Mineiro;camara;25;165667,04;2196766,05;estimativa
+br-p-cd-204411;Filipe Barros;camara;10;108618,25;1547829,12;estimativa
+br-p-cd-220545;Filipe Martins;camara;16;161238,35;1960778,36;estimativa
+br-p-cd-160598;Flávia Morais;camara;24;165482,01;2097282,76;estimativa
+br-p-cd-220551;Franciane Bayer;camara;19;165641,61;2244927,34;estimativa
+br-p-cd-220534;Fred Linhares;camara;24;165614,41;1945906,63;estimativa
+br-p-cd-224117;Gabriel Mota;camara;25;165465,81;2210203,12;estimativa
+br-p-cd-220708;Gabriel Nunes;camara;22;155259,80;2098784,30;estimativa
+br-p-cd-204473;General Girão;camara;20;151365,80;2054068,48;estimativa
+br-p-cd-220611;General Pazuello;camara;19;156888,81;1984080,99;estimativa
+br-p-cd-178966;Geovania de Sá;camara;22;157196,65;2070055,68;estimativa
+br-p-cd-220702;Geraldo Mendes;camara;23;162204,75;2083698,46;estimativa
+br-p-cd-74374;Geraldo Resende;camara;21;163458,31;2240200,85;estimativa
+br-p-cd-204394;Gervásio Maia;camara;24;158150,27;2045380,63;estimativa
+br-p-cd-74270;Gilberto Nascimento;camara;24;165482,18;2113250,54;estimativa
+br-p-cd-204365;Gilson Marques;camara;11;156220,60;1841661,40;estimativa
+br-p-cd-220526;Gilvan da Federal;camara;19;165798,15;2029207,71;estimativa
+br-p-cd-160673;Giovani Cherini;camara;25;165540,00;2160249,19;estimativa
+br-p-cd-152605;Glauber Braga;camara;24;145975,12;1695449,80;estimativa
+br-p-cd-107283;Gleisi Hoffmann;camara;18;154181,20;1844589,26;estimativa
+br-p-cd-220664;Guilherme Uchoa;camara;22;163737,82;2055117,31;estimativa
+br-p-cd-220568;Gustavo Gayer;camara;16;165598,75;2036835,97;estimativa
+br-p-cd-204408;Gustinho Ribeiro;camara;11;165778,24;2101956,54;estimativa
+br-p-cd-204456;Gutemberg Reis;camara;23;139699,82;1814791,32;estimativa
+br-p-cd-178964;Heitor Schuch;camara;24;153185,84;2051846,65;estimativa
+br-p-cd-220537;Helena Lima;camara;20;150349,23;1961337,92;estimativa
+br-p-cd-204444;Helio Lopes;camara;12;114961,60;1549216,72;estimativa
+br-p-cd-204539;Hercílio Coelho Diniz;camara;12;158731,50;1977786,61;estimativa
+br-p-cd-220563;Icaro de Valmir;camara;22;165575,79;2028186,10;estimativa
+br-p-cd-204533;Idilvan Alencar;camara;23;165559,66;1896227,59;estimativa
+br-p-cd-98615;Ismael;camara;25;165599,36;2075021,61;estimativa
+br-p-cd-225846;Itamar Paim;camara;14;165058,80;1981444,02;estimativa
+br-p-cd-220696;Ivoneide Caetano;camara;21;165633,68;2106614,55;estimativa
+br-p-cd-220670;Iza Arruda;camara;10;155055,77;2024333,03;estimativa
+br-p-cd-220527;Jack Rocha;camara;18;139686,73;1864751,64;estimativa
+br-p-cd-220697;Jadyel Alencar;camara;20;163977,54;1945569,88;estimativa
+br-p-cd-74848;Jandira Feghali;camara;13;155585,38;1999102,99;estimativa
+br-p-cd-220567;Jeferson Rodrigues;camara;20;165192,30;2176783,53;estimativa
+br-p-cd-74273;Jefferson Campos;camara;16;155482,10;2037916,00;estimativa
+br-p-cd-141458;João Carlos Bacelar;camara;22;141971,47;1840805,73;estimativa
+br-p-cd-230957;João Cury;camara;25;165435,04;2222857,86;estimativa
+br-p-cd-178910;Joaquim Passarinho;camara;18;141053,83;1792432,41;estimativa
+br-p-cd-160548;Jonas Donizette;camara;18;156388,93;1978752,42;estimativa
+br-p-cd-235800;Jorge Araújo;camara;18;159466,92;1919859,59;estimativa
+br-p-cd-205550;Jorge Braz;camara;20;165801,95;2128052,96;estimativa
+br-p-cd-214694;Jorge Goetten;camara;23;164540,53;2121782,73;estimativa
+br-p-cd-178857;Jorge Solla;camara;24;159685,73;2089494,51;estimativa
+br-p-cd-204391;José Nelto;camara;23;165677,40;2145294,19;estimativa
+br-p-cd-74079;José Priante;camara;23;154454,75;1825621,13;estimativa
+br-p-cd-209189;Joseildo Ramos;camara;23;165627,15;2179651,37;estimativa
+br-p-cd-204563;Josimar Maranhãozinho;camara;25;165685,11;1933411,47;estimativa
+br-p-cd-215043;Josivaldo JP;camara;25;164583,38;1944665,13;estimativa
+br-p-cd-74253;Julio Lopes;camara;21;134944,69;1874846,57;estimativa
+br-p-cd-204457;Juninho do Pneu;camara;24;163411,42;2192241,38;estimativa
+br-p-cd-204520;Junio Amaral;camara;21;154732,77;2007336,90;estimativa
+br-p-cd-204574;Junior Lourenço;camara;25;165800,12;2160482,22;estimativa
+br-p-cd-178886;Juscelino Filho;camara;25;165458,23;2072242,07;estimativa
+br-p-cd-220677;Keniston Braga;camara;25;165524,80;2222866,47;estimativa
+br-p-cd-178832;Leandre;camara;18;155158,31;1908468,44;estimativa
+br-p-cd-220566;Lêda Borges;camara;25;165743,20;2090811,21;estimativa
+br-p-cd-74585;Lincoln Portela;camara;24;165688,33;2148767,67;estimativa
+br-p-cd-220581;Luciano Amaral;camara;9;165688,68;2121500,12;estimativa
+br-p-cd-74478;Luciano Bivar;camara;22;165622,44;2080614,38;estimativa
+br-p-cd-160510;Luis Tibé;camara;17;135882,39;1660338,31;estimativa
+br-p-cd-204410;Luisa Canziani;camara;22;156184,49;2103146,45;estimativa
+br-p-cd-141487;Luiz Fernando Faria;camara;22;155598,00;1928650,24;estimativa
+br-p-cd-162332;Luiz Nishimori;camara;25;164922,86;2119278,78;estimativa
+br-p-cd-204526;Luiz Philippe de Orleans e Bragança;camara;9;118359,42;1731584,00;estimativa
+br-p-cd-74784;Luiza Erundina;camara;10;135624,38;1888340,80;estimativa
+br-p-cd-178866;Luizianne Lins;camara;18;145506,55;2014567,25;estimativa
+br-p-cd-166402;Magda Mofatto;camara;23;164762,51;2203517,08;estimativa
+br-p-cd-133810;Marcelo Moraes;camara;19;159668,94;1969709,02;estimativa
+br-p-cd-204558;Marcelo Nilo;camara;21;165644,06;2030973,44;estimativa
+br-p-cd-179001;Márcio Biolchi;camara;25;165762,85;2175176,46;estimativa
+br-p-cd-220687;Márcio Honaiser;camara;23;158349,49;1913735,78;estimativa
+br-p-cd-81055;Márcio Jerry;camara;25;165167,41;2211071,82;estimativa
+br-p-cd-160535;Marcon;camara;25;165583,74;2132672,42;estimativa
+br-p-cd-204431;Marcos Aurélio Sampaio;camara;13;157458,09;1981595,24;estimativa
+br-p-cd-220655;Mario Frias;camara;15;141083,65;1762381,92;estimativa
+br-p-cd-178843;Marx Beltrão;camara;16;165704,45;2086358,41;estimativa
+br-p-cd-220661;Matheus Noronha;camara;25;154445,15;1911774,52;estimativa
+br-p-cd-220550;Mauricio Marcon;camara;14;165344,49;2022566,97;estimativa
+br-p-cd-220647;Mauricio Neves;camara;22;154159,92;1957708,48;estimativa
+br-p-cd-220591;Meire Serafim;camara;17;165748,87;2140816,35;estimativa
+br-p-cd-220530;Messias Donato;camara;24;158427,41;2088953,97;estimativa
+br-p-cd-178985;Miguel Lombardi;camara;18;144866,04;1892110,53;estimativa
+br-p-cd-154178;Milton Vieira;camara;18;165598,69;1939101,48;estimativa
+br-p-cd-178895;Misael Varella;camara;25;164286,33;2212240,60;estimativa
+br-p-cd-160561;Missionário José Olimpio;camara;13;152176,85;2032232,71;estimativa
+br-p-cd-178997;Moses Rodrigues;camara;23;165535,73;2071885,22;estimativa
+br-p-cd-220617;Murillo Gouvea;camara;25;165729,32;2122254,23;estimativa
+br-p-cd-204453;Natália Bonavides;camara;22;165364,74;2116732,68;estimativa
+br-p-cd-204449;Nelson Barbudo;camara;9;165608,94;2161596,17;estimativa
+br-p-cd-220622;Nely Aquino;camara;23;165333,59;2090321,42;estimativa
+br-p-cd-194260;Nivaldo Albuquerque;camara;7;165424,70;1842580,74;estimativa
+br-p-cd-204498;Olival Marques;camara;24;161112,23;2040062,25;estimativa
+br-p-cd-73692;Osmar Terra;camara;15;150279,68;2019488,85;estimativa
+br-p-cd-204441;Otoni de Paula;camara;21;165754,96;2025635,35;estimativa
+br-p-cd-180214;Pastor Diniz;camara;25;165741,39;2077506,22;estimativa
+br-p-cd-160642;Pastor Eurico;camara;18;165416,79;2040280,45;estimativa
+br-p-cd-204570;Pastor Gil;camara;17;156110,79;2053766,49;estimativa
+br-p-cd-220615;Pastor Henrique Vieira;camara;15;165399,48;2117105,89;estimativa
+br-p-cd-204553;Pastor Sargento Isidório;camara;25;165693,03;1850549,88;estimativa
+br-p-cd-141518;Paulinho da Força;camara;25;163462,38;1989136,26;estimativa
+br-p-cd-160517;Paulo Folletto;camara;25;165785,62;2082400,26;estimativa
+br-p-cd-160558;Paulo Freire Costa;camara;22;152396,93;1853511,56;estimativa
+br-p-cd-233592;Paulo Lemos;camara;20;146181,31;1841791,87;estimativa
+br-p-cd-74400;Paulo Pimenta;camara;23;159969,90;2044567,98;estimativa
+br-p-cd-220630;Pedro Aihara;camara;18;152993,95;1925922,96;estimativa
+br-p-cd-220667;Pedro Campos;camara;17;114344,50;1653873,46;estimativa
+br-p-cd-122974;Pedro Lucas Fernandes;camara;22;137507,36;1885191,56;estimativa
+br-p-cd-160604;Pedro Uczai;camara;25;165732,31;2088026,07;estimativa
+br-p-cd-204406;Pedro Westphalen;camara;25;164909,29;2199861,39;estimativa
+br-p-cd-161440;Pezenti;camara;24;163756,59;2064118,70;estimativa
+br-p-cd-204524;Pinheirinho;camara;23;156599,84;1994877,01;estimativa
+br-p-cd-220533;Prof. Reginaldo Veras;camara;23;147535,88;1974470,61;estimativa
+br-p-cd-204390;Professor Alcides;camara;25;163998,01;2117344,82;estimativa
+br-p-cd-160641;Professora Marcivania;camara;25;165684,23;2041226,23;estimativa
+br-p-cd-233594;Rafael Fera;camara;19;157454,92;2110514,43;estimativa
+br-p-cd-204567;Raimundo Costa;camara;25;165402,97;2198758,42;estimativa
+br-p-cd-74084;Raimundo Santos;camara;25;165669,44;2050935,83;estimativa
+br-p-cd-220606;Reimont;camara;24;155654,38;2022167,87;estimativa
+br-p-cd-175765;Ribamar Silva;camara;23;162365,26;2068636,60;estimativa
+br-p-cd-204362;Ricardo Guidi;camara;24;160013,66;2095355,79;estimativa
+br-p-cd-220633;Ricardo Salles;camara;18;150646,94;2044916,80;estimativa
+br-p-cd-204489;Robério Monteiro;camara;24;165376,41;2069401,95;estimativa
+br-p-cd-220693;Roberta Roma;camara;25;165755,01;2181908,37;estimativa
+br-p-cd-220613;Roberto Monteiro Pai;camara;14;154127,11;1992673,66;estimativa
+br-p-cd-220641;Rodrigo Gambale;camara;23;165232,01;2129175,83;estimativa
+br-p-cd-141533;Rodrigo Rollemberg;camara;23;145514,62;1855840,54;estimativa
+br-p-cd-165470;Rodrigo Valadares;camara;24;165661,39;1989918,15;estimativa
+br-p-cd-220695;Rogéria Santos;camara;23;161591,18;2058387,19;estimativa
+br-p-cd-204525;Rosana Valle;camara;22;158162,46;2083912,81;estimativa
+br-p-cd-220644;Rosangela Moro;camara;8;131637,36;1675658,65;estimativa
+br-p-cd-220620;Rosângela Reis;camara;24;163934,38;2168757,84;estimativa
+br-p-cd-74371;Rubens Otoni;camara;22;150967,30;2019010,62;estimativa
+br-p-cd-73604;Rui Falcão;camara;24;161037,17;2036602,66;estimativa
+br-p-cd-160635;Ruy Carneiro;camara;24;163561,49;2197955,88;estimativa
+br-p-cd-220631;Samuel Viana;camara;15;146923,89;2002173,03;estimativa
+br-p-cd-160621;Sandro Alex;camara;10;139666,92;1642149,35;estimativa
+br-p-cd-204387;Sargento Fahur;camara;8;121757,26;1571713,87;estimativa
+br-p-cd-220621;Sargento Gonçalves;camara;21;153068,76;1989543,83;estimativa
+br-p-cd-220713;Saullo Vianna;camara;13;130897,29;1724571,54;estimativa
+br-p-cd-226837;Saulo Pedroso;camara;25;165542,46;2160235,81;estimativa
+br-p-cd-73808;Sérgio Brito;camara;24;157685,19;1978615,48;estimativa
+br-p-cd-74356;Silas Câmara;camara;25;165801,72;2076122,37;estimativa
+br-p-cd-204425;Silvio Costa Filho;camara;25;165638,46;1911206,36;estimativa
+br-p-cd-220651;Simone Marquetto;camara;15;165793,23;2173884,84;estimativa
+br-p-cd-220643;Sônia Guajajara;camara;13;137069,23;1689304,13;estimativa
+br-p-cd-92776;Stefano Aguiar;camara;14;144263,43;1950343,93;estimativa
+br-p-cd-220598;Tarcísio Motta;camara;16;152634,40;2026526,22;estimativa
+br-p-cd-220560;Thiago de Joaldo;camara;23;165747,27;2159580,96;estimativa
+br-p-cd-160976;Tiririca;camara;9;165624,94;1999124,27;estimativa
+br-p-cd-160610;Valmir Assunção;camara;22;157794,69;2065477,77;estimativa
+br-p-cd-74376;Vander Loubet;camara;23;163114,65;2123060,94;estimativa
+br-p-cd-137070;Vicentinho Júnior;camara;25;164302,08;1950273,95;estimativa
+br-p-cd-160591;Vinicius Gurgel;camara;25;165708,13;2157437,11;estimativa
+br-p-cd-178992;Vitor Lippi;camara;21;160716,39;2128280,19;estimativa
+br-p-cd-160569;Waldenor Pereira;camara;24;165582,68;2152086,32;estimativa
+br-p-cd-160518;Weliton Prado;camara;23;165630,47;2133944,06;estimativa
+br-p-cd-224333;Welter;camara;24;165732,06;2184540,98;estimativa
+br-p-cd-220564;Yandra Moura;camara;15;165798,10;2089992,94;estimativa
+br-p-cd-220660;Yury do Paredão;camara;21;165653,24;1915708,72;estimativa
+br-p-cd-230768;Zé Adriano;camara;21;165481,98;2270932,70;estimativa
+br-p-cd-220536;Zé Haroldo Cathedral;camara;24;165521,02;2169088,91;estimativa
+br-p-cd-220592;Zezinho Barbary;camara;17;165614,66;2093354,90;estimativa
+br-p-cd-220552;Zucco;camara;12;165775,86;1985321,81;estimativa
+br-p-sf-345;Flávio Arns;senado;29;0;643713,95;real (último mês)
+br-p-sf-6369;Jussara Lima;senado;41;0;842295,56;real (último mês)
+br-p-sf-6025;Roberta Acioly;senado;60;0;814886,59;real (último mês)
+br-p-sf-5322;Romário;senado;31;0;581048,42;real (último mês)

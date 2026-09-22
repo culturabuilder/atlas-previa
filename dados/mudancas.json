@@ -1,0 +1,1802 @@
+[
+{
+"data":"2026-08-28",
+"tipo":"designacao",
+"pessoa":"Maria Fernanda Mascarenhas Dos Santos Melis",
+"cargo_id":"br-secretaria-nacional-de-politicas-de-turismo-secretario",
+"cargo":"Secretário Nacional de Políticas de Turismo do Ministério do Turismo",
+"interino":false,
+"fonte":"https://www.in.gov.br/web/dou/-/portaria-de-pessoal-gm/mtur-n-27-de-26-de-agosto-de-2026-728533730"
+},
+{
+"data":"2026-07-31",
+"tipo":"nomeacao",
+"pessoa":"Paulo Tiago Almeida Miranda",
+"cargo_id":"br-secretaria-executiva-turismo-secretario",
+"cargo":"Secretário-Executivo do Ministério do Turismo",
+"interino":false,
+"fonte":"https://www.in.gov.br/web/dou/-/portarias-de-30-de-julho-de-2026-722478706"
+},
+{
+"data":"2026-07-22",
+"tipo":"nomeacao",
+"pessoa":"Samara Mariana de Castro",
+"cargo_id":"br-secretaria-executiva-secom-pr-secretario",
+"cargo":"Secretária-Executiva da Secretaria de Comunicação Social da Presidência da República",
+"interino":false,
+"fonte":"https://www.in.gov.br/web/dou/-/decretos-de-21-de-julho-de-2026-720580698"
+},
+{
+"data":"2026-07-03",
+"tipo":"posse",
+"pessoa":"Leandro de Sousa Mendes",
+"cargo_id":"br-ancine-diretor",
+"cargo":"Diretor da Ancine",
+"interino":true,
+"fonte":"https://www.gov.br/ancine/pt-br/assuntos/diretoria-colegiada/diretores"
+},
+{
+"data":"2026-06-30",
+"tipo":"nomeacao",
+"pessoa":"Thairyne Jéssica Martins de Oliveira",
+"cargo_id":"br-secretaria-executiva-portos-e-aeroportos-secretario",
+"cargo":"Secretária-Executiva do Ministério de Portos e Aeroportos",
+"interino":false,
+"fonte":"https://www.in.gov.br/web/dou/-/decreto-de-29-de-junho-de-2026-715452741"
+},
+{
+"data":"2026-06-29",
+"tipo":"nomeacao",
+"pessoa":"Daniel Vieira Sarapu",
+"cargo_id":"br-secretaria-nacional-de-transicao-energetica-e-planejamento-secretario",
+"cargo":"Secretária Nacional de Transição Energética e Planejamento do Ministério de Minas e Energia",
+"interino":false,
+"fonte":"https://www.in.gov.br/web/dou/-/portarias-de-26-de-junho-de-2026-715197130"
+},
+{
+"data":"2026-06-29",
+"tipo":"nomeacao",
+"pessoa":"Mariana de Assis Espécie",
+"cargo_id":"br-secretaria-nacional-de-transicao-energetica-e-planejamento-secretario",
+"cargo":"Secretária Nacional de Transição Energética e Planejamento do Ministério de Minas e Energia",
+"interino":false,
+"fonte":"https://www.in.gov.br/web/dou/-/portarias-de-26-de-junho-de-2026-715197130"
+},
+{
+"data":"2026-06-25",
+"tipo":"posse",
+"pessoa":"André Luiz de Almeida Mendonça",
+"cargo_id":"br-tribunal-superior-eleitoral-ministro",
+"cargo":"Ministro do Tribunal Superior Eleitoral",
+"interino":false,
+"fonte":"https://www.tse.jus.br/institucional/ministros"
+},
+{
+"data":"2026-06-16",
+"tipo":"posse",
+"pessoa":"Igor Muniz",
+"cargo_id":"br-diretor-da-cvm",
+"cargo":"Diretor da CVM",
+"interino":false,
+"fonte":"https://www.gov.br/cvm/pt-br/composicao/colegiado"
+},
+{
+"data":"2026-06-09",
+"tipo":"posse",
+"pessoa":"José Antonio Dias Toffoli",
+"cargo_id":"br-tribunal-superior-eleitoral-ministro",
+"cargo":"Ministro do Tribunal Superior Eleitoral",
+"interino":false,
+"fonte":"https://www.tse.jus.br/institucional/ministros"
+},
+{
+"data":"2026-06-05",
+"tipo":"posse",
+"pessoa":"Otto Eduardo Fonseca de Albuquerque Lobo",
+"cargo_id":"br-presidente-da-cvm",
+"cargo":"Presidente da CVM",
+"interino":false,
+"fonte":"https://www.gov.br/cvm/pt-br/composicao/colegiado"
+},
+{
+"data":"2026-06-03",
+"tipo":"posse",
+"pessoa":"Luiz Paniago Neves",
+"cargo_id":"br-anm-diretor",
+"cargo":"Diretor da ANM",
+"interino":true,
+"fonte":"https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/diretores"
+},
+{
+"data":"2026-06-03",
+"tipo":"posse",
+"pessoa":"Fábio Fernando Borges",
+"cargo_id":"br-anm-diretor",
+"cargo":"Diretor da ANM",
+"interino":true,
+"fonte":"https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/diretores"
+},
+{
+"data":"2026-05-28",
+"tipo":"nomeacao",
+"pessoa":"Vitor Emanuel Marchetti Ferraz Junior",
+"cargo_id":"br-secretaria-especial-de-assuntos-parlamentares-secretario",
+"cargo":"Secretário Especial de Assuntos Parlamentares da Secretaria de Relações Institucionais da Presidência da República",
+"interino":false,
+"fonte":"https://www.in.gov.br/web/dou/-/portarias-de-27-de-maio-de-2026-708793411"
+},
+{
+"data":"2026-05-20",
+"tipo":"sabatina",
+"pessoa":"Otto Eduardo Fonseca de Albuquerque Lobo",
+"cargo_id":"br-presidente-da-cvm",
+"cargo":"Presidente da CVM",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/172400"
+},
+{
+"data":"2026-05-20",
+"tipo":"sabatina",
+"pessoa":"Igor Muniz",
+"cargo_id":"br-diretor-da-cvm",
+"cargo":"Diretor da CVM",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/172407"
+},
+{
+"data":"2026-05-20",
+"tipo":"sabatina",
+"pessoa":"Paulo Roberto Soares Pacheco",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/173684"
+},
+{
+"data":"2026-05-20",
+"tipo":"sabatina",
+"pessoa":"Olyntho Vieira",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/173685"
+},
+{
+"data":"2026-05-20",
+"tipo":"sabatina",
+"pessoa":"Marcelo Paz Saraiva Câmara",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/173680"
+},
+{
+"data":"2026-05-20",
+"tipo":"sabatina",
+"pessoa":"Fabio Vaz Pitaluga",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/173688"
+},
+{
+"data":"2026-05-20",
+"tipo":"sabatina",
+"pessoa":"João Batista do Nascimento Magalhães",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/173679"
+},
+{
+"data":"2026-05-20",
+"tipo":"sabatina",
+"pessoa":"Ricardo André Vieira Diniz",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/173686"
+},
+{
+"data":"2026-05-07",
+"tipo":"posse",
+"pessoa":"Margareth Rodrigues Costa",
+"cargo_id":"br-tribunal-superior-do-trabalho-ministro",
+"cargo":"Ministro do Tribunal Superior do Trabalho",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Tribunal_Superior_do_Trabalho"
+},
+{
+"data":"2026-04-29",
+"tipo":"sabatina",
+"pessoa":"Jorge Rodrigo Araújo Messias",
+"cargo_id":"br-supremo-tribunal-federal-ministro",
+"cargo":"Ministro do Supremo Tribunal Federal",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/173452"
+},
+{
+"data":"2026-04-29",
+"tipo":"sabatina",
+"pessoa":"Margareth Rodrigues Costa",
+"cargo_id":"br-tribunal-superior-do-trabalho-ministro",
+"cargo":"Ministro do Tribunal Superior do Trabalho",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/173453"
+},
+{
+"data":"2026-04-29",
+"tipo":"sabatina",
+"pessoa":"Tarcijany Linhares Aguiar Machado",
+"cargo_id":"br-defensor-publico-geral-federal",
+"cargo":"Defensor Público-Geral Federal",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/173586"
+},
+{
+"data":"2026-04-28",
+"tipo":"sabatina",
+"pessoa":"Laudemar Gonçalves de Aguiar Neto",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/170896"
+},
+{
+"data":"2026-04-28",
+"tipo":"sabatina",
+"pessoa":"Claudio Raja Gabaglia Lins",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/171091"
+},
+{
+"data":"2026-04-28",
+"tipo":"sabatina",
+"pessoa":"Ricardo Primo Portugal",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/172060"
+},
+{
+"data":"2026-04-15",
+"tipo":"sabatina",
+"pessoa":"Eduardo Botelho Barbosa",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169937"
+},
+{
+"data":"2026-04-15",
+"tipo":"sabatina",
+"pessoa":"Luiz Cesar Gasser",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/170534"
+},
+{
+"data":"2026-04-15",
+"tipo":"sabatina",
+"pessoa":"João de Mendonça Lima Neto",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/170531"
+},
+{
+"data":"2026-04-15",
+"tipo":"sabatina",
+"pessoa":"Alfredo Cesar Martinho Leoni",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/170897"
+},
+{
+"data":"2026-04-15",
+"tipo":"sabatina",
+"pessoa":"Jorge Geraldo Kadri",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/171702"
+},
+{
+"data":"2026-04-15",
+"tipo":"sabatina",
+"pessoa":"João Alfredo Dos Anjos Junior",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/172059"
+},
+{
+"data":"2026-04-14",
+"tipo":"sabatina",
+"pessoa":"Haroldo de Macedo Ribeiro",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/170530"
+},
+{
+"data":"2026-04-14",
+"tipo":"sabatina",
+"pessoa":"André Odenbreit Carvalho",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/170532"
+},
+{
+"data":"2026-04-14",
+"tipo":"sabatina",
+"pessoa":"Pedro Murilo Ortega Terra",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/172058"
+},
+{
+"data":"2026-04-14",
+"tipo":"sabatina",
+"pessoa":"Alexandre Peña Ghisleni",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/172569"
+},
+{
+"data":"2026-04-08",
+"tipo":"sabatina",
+"pessoa":"Manuel Adalberto Carlos Montenegro Lopes da Cruz",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169690"
+},
+{
+"data":"2026-04-08",
+"tipo":"sabatina",
+"pessoa":"Luís Ivaldo Villafañe Gomes Santos",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169727"
+},
+{
+"data":"2026-04-08",
+"tipo":"sabatina",
+"pessoa":"Márcia Donner Abreu",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169935"
+},
+{
+"data":"2026-04-08",
+"tipo":"sabatina",
+"pessoa":"Pedro de Castro da Cunha e Menezes",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169936"
+},
+{
+"data":"2026-04-08",
+"tipo":"sabatina",
+"pessoa":"Fernando Meirelles de Azevedo Pimentel",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/170533"
+},
+{
+"data":"2026-01-01",
+"tipo":"posse",
+"pessoa":"Benedito Gonçalves",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2026-01-01",
+"tipo":"posse",
+"pessoa":"Kátia Magalhães Arruda",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2026-01-01",
+"tipo":"posse",
+"pessoa":"Jaceguara Dantas da Silva",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2026-01-01",
+"tipo":"posse",
+"pessoa":"Fábio Francisco Esteves",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2026-01-01",
+"tipo":"posse",
+"pessoa":"Andréa Cunha Esmeraldo",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2026-01-01",
+"tipo":"posse",
+"pessoa":"Ilan Presser",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2026-01-01",
+"tipo":"posse",
+"pessoa":"Paulo Regis Machado Botelho",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2026-01-01",
+"tipo":"posse",
+"pessoa":"Noemia Aparecida Garcia Porto",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2026-01-01",
+"tipo":"posse",
+"pessoa":"Carlos Vinícius Alves Ribeiro",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2025-12-16",
+"tipo":"posse",
+"pessoa":"Ricardo Villas Bôas Cueva",
+"cargo_id":"br-tribunal-superior-eleitoral-ministro",
+"cargo":"Ministro do Tribunal Superior Eleitoral",
+"interino":false,
+"fonte":"https://www.tse.jus.br/institucional/ministros"
+},
+{
+"data":"2025-11-28",
+"tipo":"posse",
+"pessoa":"Flavio Marcus Lancia Barbosa",
+"cargo_id":"br-superior-tribunal-militar-ministro",
+"cargo":"Ministro do Superior Tribunal Militar",
+"interino":false,
+"fonte":"https://www.stm.jus.br/institucional/conheca-o-superior-tribunal-militar/composicao-da-corte"
+},
+{
+"data":"2025-11-27",
+"tipo":"posse",
+"pessoa":"Anisio David de Oliveira Junior",
+"cargo_id":"br-superior-tribunal-militar-ministro",
+"cargo":"Ministro do Superior Tribunal Militar",
+"interino":false,
+"fonte":"https://www.stm.jus.br/institucional/conheca-o-superior-tribunal-militar/composicao-da-corte"
+},
+{
+"data":"2025-11-12",
+"tipo":"sabatina",
+"pessoa":"Paulo Gustavo Gonet Branco",
+"cargo_id":"br-procurador-geral-da-republica",
+"cargo":"Procurador-Geral da República",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/170323"
+},
+{
+"data":"2025-11-12",
+"tipo":"sabatina",
+"pessoa":"Renata Lúcia Medeiros de Albuquerque Emerenciano",
+"cargo_id":"br-ana-dirigente",
+"cargo":"Diretor-Presidente da ANA",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/170893"
+},
+{
+"data":"2025-11-12",
+"tipo":"sabatina",
+"pessoa":"Anisio David de Oliveira Junior",
+"cargo_id":"br-superior-tribunal-militar-ministro",
+"cargo":"Ministro do Superior Tribunal Militar",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/171353"
+},
+{
+"data":"2025-11-12",
+"tipo":"sabatina",
+"pessoa":"Flavio Marcus Lancia Barbosa",
+"cargo_id":"br-superior-tribunal-militar-ministro",
+"cargo":"Ministro do Superior Tribunal Militar",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/171354"
+},
+{
+"data":"2025-11-12",
+"tipo":"sabatina",
+"pessoa":"Severino Medeiros Ramos Neto",
+"cargo_id":"br-antt-diretor",
+"cargo":"Diretor da ANTT",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/171426"
+},
+{
+"data":"2025-09-29",
+"tipo":"posse",
+"pessoa":"Edson Fachin",
+"cargo_id":"br-supremo-tribunal-federal-presidente",
+"cargo":"Presidente do Supremo Tribunal Federal",
+"interino":false,
+"fonte":"https://portal.stf.jus.br/textos/verTexto.asp?servico=bibliotecaConsultaProdutoBibliotecaPastaMinistro&pagina=ComposicaoAtual"
+},
+{
+"data":"2025-09-29",
+"tipo":"posse",
+"pessoa":"Edson Fachin",
+"cargo_id":"br-presidente-do-cnj",
+"cargo":"Presidente do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://portal.stf.jus.br/textos/verTexto.asp?servico=bibliotecaConsultaProdutoBibliotecaPastaMinistro&pagina=ComposicaoAtual"
+},
+{
+"data":"2025-09-04",
+"tipo":"posse",
+"pessoa":"Maria Marluce Caldas Bezerra",
+"cargo_id":"br-superior-tribunal-de-justica-ministro",
+"cargo":"Ministro do Superior Tribunal de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Superior_Tribunal_de_Justi%C3%A7a"
+},
+{
+"data":"2025-09-04",
+"tipo":"posse",
+"pessoa":"Carlos Augusto Pires Brandão",
+"cargo_id":"br-superior-tribunal-de-justica-ministro",
+"cargo":"Ministro do Superior Tribunal de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Superior_Tribunal_de_Justi%C3%A7a"
+},
+{
+"data":"2025-09-02",
+"tipo":"posse",
+"pessoa":"Patrícia Barcelos",
+"cargo_id":"br-ancine-diretor",
+"cargo":"Diretor da Ancine",
+"interino":false,
+"fonte":"https://www.gov.br/ancine/pt-br/assuntos/diretoria-colegiada/diretores"
+},
+{
+"data":"2025-09-01",
+"tipo":"posse",
+"pessoa":"José Fernando Gomes Júnior",
+"cargo_id":"br-anm-diretor",
+"cargo":"Diretor da ANM",
+"interino":false,
+"fonte":"https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/diretores"
+},
+{
+"data":"2025-08-29",
+"tipo":"posse",
+"pessoa":"Artur Watt Neto",
+"cargo_id":"br-anp-dirigente",
+"cargo":"Diretor-Geral da ANP",
+"interino":false,
+"fonte":"https://www.gov.br/anp/pt-br/composicao/diretoria-colegiada/composicao-diretoria-colegiada"
+},
+{
+"data":"2025-08-29",
+"tipo":"posse",
+"pessoa":"Pietro Mendes",
+"cargo_id":"br-anp-diretor",
+"cargo":"Diretor da ANP",
+"interino":false,
+"fonte":"https://www.gov.br/anp/pt-br/composicao/diretoria-colegiada/composicao-diretoria-colegiada"
+},
+{
+"data":"2025-08-29",
+"tipo":"posse",
+"pessoa":"Lorena Giuberti Coutinho",
+"cargo_id":"br-diretor-da-anpd",
+"cargo":"Diretor da ANPD",
+"interino":false,
+"fonte":"https://www.gov.br/anpd/pt-br/composicao/conselho-diretor/lorena-giuberti-coutinho"
+},
+{
+"data":"2025-08-28",
+"tipo":"posse",
+"pessoa":"Larissa Oliveira Rêgo",
+"cargo_id":"br-ana-diretor",
+"cargo":"Diretor da ANA",
+"interino":false,
+"fonte":"https://www.gov.br/ana/pt-br/acesso-a-informacao/institucional/diretoria-colegiada"
+},
+{
+"data":"2025-08-28",
+"tipo":"posse",
+"pessoa":"Cristiane Collet Battiston",
+"cargo_id":"br-ana-diretor",
+"cargo":"Diretor da ANA",
+"interino":false,
+"fonte":"https://www.gov.br/ana/pt-br/acesso-a-informacao/institucional/diretoria-colegiada"
+},
+{
+"data":"2025-08-28",
+"tipo":"posse",
+"pessoa":"Leonardo Góes Silva",
+"cargo_id":"br-ana-diretor",
+"cargo":"Diretor da ANA",
+"interino":false,
+"fonte":"https://www.gov.br/ana/pt-br/acesso-a-informacao/institucional/diretoria-colegiada"
+},
+{
+"data":"2025-08-20",
+"tipo":"sabatina",
+"pessoa":"José Fernando de Mendonça Gomes Júnior",
+"cargo_id":"br-anm-diretor",
+"cargo":"Diretor da ANM",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166756"
+},
+{
+"data":"2025-08-20",
+"tipo":"sabatina",
+"pessoa":"Guilherme Theo Rodrigues da Rocha Sampaio",
+"cargo_id":"br-antt-dirigente",
+"cargo":"Diretor-Geral da ANTT",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166758"
+},
+{
+"data":"2025-08-20",
+"tipo":"sabatina",
+"pessoa":"Alessandro Facure Neves de Salles Soares",
+"cargo_id":"br-ancine-dirigente",
+"cargo":"Diretor-Presidente da Ancine",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166746"
+},
+{
+"data":"2025-08-20",
+"tipo":"sabatina",
+"pessoa":"Renata Sousa Cordeiro",
+"cargo_id":"br-antaq-dirigente",
+"cargo":"Diretor-Geral da Antaq",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169592"
+},
+{
+"data":"2025-08-20",
+"tipo":"sabatina",
+"pessoa":null,
+"cargo_id":"br-antt-diretor",
+"cargo":"Diretor da ANTT",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169594"
+},
+{
+"data":"2025-08-20",
+"tipo":"sabatina",
+"pessoa":"Frederico Carvalho Dias",
+"cargo_id":"br-antaq-dirigente",
+"cargo":"Diretor-Geral da Antaq",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169667"
+},
+{
+"data":"2025-08-20",
+"tipo":"sabatina",
+"pessoa":"Lenise Barcellos de Mello Secchin",
+"cargo_id":"br-ans-diretor",
+"cargo":"Diretor da ANS",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169847"
+},
+{
+"data":"2025-08-20",
+"tipo":"sabatina",
+"pessoa":"Guilherme Theo Rodrigues da Rocha Sampaio",
+"cargo_id":"br-antt-dirigente",
+"cargo":"Diretor-Geral da ANTT",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169909"
+},
+{
+"data":"2025-08-20",
+"tipo":"posse",
+"pessoa":"Verônica Abdalla Sterman",
+"cargo_id":"br-superior-tribunal-militar-ministro",
+"cargo":"Ministro do Superior Tribunal Militar",
+"interino":false,
+"fonte":"https://www.stm.jus.br/institucional/conheca-o-superior-tribunal-militar/composicao-da-corte"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Daniela Marreco Cerqueira",
+"cargo_id":"br-anvisa-diretor",
+"cargo":"Diretor da Anvisa",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166753"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Leandro Pinheiro Safatle",
+"cargo_id":"br-anvisa-dirigente",
+"cargo":"Diretor-Presidente da Anvisa",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166754"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Larissa Oliveira Rêgo",
+"cargo_id":"br-ana-diretor",
+"cargo":"Diretor da ANA",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166760"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Leonardo Góes Silva",
+"cargo_id":"br-ana-diretor",
+"cargo":"Diretor da ANA",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166762"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Artur Watt Neto",
+"cargo_id":"br-anp-dirigente",
+"cargo":"Diretor-Geral da ANP",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166743"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Pietro Adamo Sampaio Mendes",
+"cargo_id":"br-anp-diretor",
+"cargo":"Diretor da ANP",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166744"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Cristiane Collet Battiston",
+"cargo_id":"br-ana-diretor",
+"cargo":"Diretor da ANA",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166761"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Wadih Nemer Damous Filho",
+"cargo_id":"br-ans-dirigente",
+"cargo":"Diretor-Presidente da ANS",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166750"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Tiago Chagas Faierstein",
+"cargo_id":"br-anac-dirigente",
+"cargo":"Diretor-Presidente da Anac",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166751"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Rui Chagas Mesquita",
+"cargo_id":"br-anac-diretor",
+"cargo":"Diretor da Anac",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166752"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Lorena Giuberti Coutinho",
+"cargo_id":"br-diretor-da-anpd",
+"cargo":"Diretor da ANPD",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169589"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Thiago Lopes Cardoso Campos",
+"cargo_id":"br-anvisa-diretor",
+"cargo":"Diretor da Anvisa",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169591"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Antonio Mathias Nogueira Moreira",
+"cargo_id":"br-anac-diretor",
+"cargo":"Diretor da Anac",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169593"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Willamy Moreira Frota",
+"cargo_id":"br-aneel-diretor",
+"cargo":"Diretor da Aneel",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169661"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Edson Victor Eugenio de Holanda",
+"cargo_id":"br-anatel-dirigente",
+"cargo":"Presidente da Anatel",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169662"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Gentil Nogueira de sá Júnior",
+"cargo_id":"br-aneel-diretor",
+"cargo":"Diretor da Aneel",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169668"
+},
+{
+"data":"2025-08-19",
+"tipo":"sabatina",
+"pessoa":"Octavio Penna Pieranti",
+"cargo_id":"br-anatel-dirigente",
+"cargo":"Presidente da Anatel",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169669"
+},
+{
+"data":"2025-08-13",
+"tipo":"sabatina",
+"pessoa":"Patricia Barcelos",
+"cargo_id":"br-ancine-diretor",
+"cargo":"Diretor da Ancine",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166742"
+},
+{
+"data":"2025-08-13",
+"tipo":"sabatina",
+"pessoa":"Verônica Abdalla Sterman",
+"cargo_id":"br-superior-tribunal-militar-ministro",
+"cargo":"Ministro do Superior Tribunal Militar",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169566"
+},
+{
+"data":"2025-08-13",
+"tipo":"sabatina",
+"pessoa":"Carlos Augusto Pires Brandão",
+"cargo_id":"br-superior-tribunal-de-justica-ministro",
+"cargo":"Ministro do Superior Tribunal de Justiça",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169571"
+},
+{
+"data":"2025-08-13",
+"tipo":"sabatina",
+"pessoa":"Maria Marluce Caldas Bezerra",
+"cargo_id":"br-superior-tribunal-de-justica-ministro",
+"cargo":"Ministro do Superior Tribunal de Justiça",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169595"
+},
+{
+"data":"2025-08-01",
+"tipo":"posse",
+"pessoa":"Floriano Peixoto de Azevedo Marques Neto",
+"cargo_id":"br-tribunal-superior-eleitoral-ministro",
+"cargo":"Ministro do Tribunal Superior Eleitoral",
+"interino":false,
+"fonte":"https://www.tse.jus.br/institucional/ministros"
+},
+{
+"data":"2025-08-01",
+"tipo":"posse",
+"pessoa":"Estela Aranha",
+"cargo_id":"br-tribunal-superior-eleitoral-ministro",
+"cargo":"Ministro do Tribunal Superior Eleitoral",
+"interino":false,
+"fonte":"https://www.tse.jus.br/institucional/ministros"
+},
+{
+"data":"2025-07-17",
+"tipo":"sabatina",
+"pessoa":"Diogo Penha Soares",
+"cargo_id":"br-anvisa-diretor",
+"cargo":"Diretor da Anvisa",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166755"
+},
+{
+"data":"2025-07-08",
+"tipo":"sabatina",
+"pessoa":"Maria Luisa Escorel de Moraes",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/168988"
+},
+{
+"data":"2025-07-08",
+"tipo":"sabatina",
+"pessoa":"Luiz Alberto Figueiredo Machado",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/168985"
+},
+{
+"data":"2025-07-08",
+"tipo":"sabatina",
+"pessoa":"Cláudia Fonseca Buzzi",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/168986"
+},
+{
+"data":"2025-07-08",
+"tipo":"sabatina",
+"pessoa":"Orlando Leite Ribeiro",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169018"
+},
+{
+"data":"2025-07-08",
+"tipo":"sabatina",
+"pessoa":"Irene Vida Gala",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169345"
+},
+{
+"data":"2025-07-08",
+"tipo":"sabatina",
+"pessoa":"Luís Guilherme Nascentes da Silva",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/169346"
+},
+{
+"data":"2025-06-11",
+"tipo":"sabatina",
+"pessoa":"Vivian Loss Sanmartin",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/168609"
+},
+{
+"data":"2025-06-11",
+"tipo":"sabatina",
+"pessoa":"Maria Elisa Teófilo de Luna",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/168608"
+},
+{
+"data":"2025-06-11",
+"tipo":"sabatina",
+"pessoa":"Daniella Ortega de Paiva Menezes",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/168607"
+},
+{
+"data":"2025-06-10",
+"tipo":"sabatina",
+"pessoa":"Maria Clara de Abreu Rada",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/167958"
+},
+{
+"data":"2025-06-10",
+"tipo":"sabatina",
+"pessoa":"Bernard Jorg Leopold de García Klingl",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/167962"
+},
+{
+"data":"2025-06-10",
+"tipo":"sabatina",
+"pessoa":"Pablo Duarte Cardoso",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/167964"
+},
+{
+"data":"2025-05-28",
+"tipo":"sabatina",
+"pessoa":"João Mendes Pereira",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/167957"
+},
+{
+"data":"2025-05-28",
+"tipo":"sabatina",
+"pessoa":"Silvio José Albuquerque e Silva",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/167959"
+},
+{
+"data":"2025-05-28",
+"tipo":"sabatina",
+"pessoa":"Júlio Cesar Fontes Laranjeira",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/167960"
+},
+{
+"data":"2025-05-28",
+"tipo":"sabatina",
+"pessoa":"Ricardo José Lustosa Leal",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/167953"
+},
+{
+"data":"2025-05-25",
+"tipo":"posse",
+"pessoa":"Kassio Nunes Marques",
+"cargo_id":"br-tribunal-superior-eleitoral-ministro",
+"cargo":"Ministro do Tribunal Superior Eleitoral",
+"interino":false,
+"fonte":"https://www.tse.jus.br/institucional/ministros"
+},
+{
+"data":"2025-05-21",
+"tipo":"sabatina",
+"pessoa":"Sérgio Rodrigues Dos Santos",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/167954"
+},
+{
+"data":"2025-05-21",
+"tipo":"sabatina",
+"pessoa":"Rodrigo de Lima Baena Soares",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/167955"
+},
+{
+"data":"2025-05-21",
+"tipo":"sabatina",
+"pessoa":"Eduardo Paes Saboia",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/167956"
+},
+{
+"data":"2025-05-21",
+"tipo":"sabatina",
+"pessoa":"André Veras Guimarães",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/167961"
+},
+{
+"data":"2025-05-21",
+"tipo":"sabatina",
+"pessoa":"Paulo Uchôa Ribeiro Filho",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/167963"
+},
+{
+"data":"2025-02-01",
+"tipo":"posse",
+"pessoa":"Hugo Motta",
+"cargo_id":"br-presidente-da-camara-dos-deputados",
+"cargo":"Presidente da Câmara dos Deputados",
+"interino":false,
+"fonte":"https://dadosabertos.camara.leg.br/api/v2/deputados/160674"
+},
+{
+"data":"2025-02-01",
+"tipo":"posse",
+"pessoa":"Davi Alcolumbre",
+"cargo_id":"br-presidente-do-senado-federal",
+"cargo":"Presidente do Senado Federal",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/senadores/mesa-diretora"
+},
+{
+"data":"2025-01-01",
+"tipo":"posse",
+"pessoa":"Gabriel Galípolo",
+"cargo_id":"br-presidente-do-banco-central",
+"cargo":"Presidente do Banco Central do Brasil",
+"interino":false,
+"fonte":"https://agenciabrasil.ebc.com.br/economia/noticia/2024-12/comissao-do-senado-aprova-novos-diretores-do-banco-central"
+},
+{
+"data":"2025-01-01",
+"tipo":"posse",
+"pessoa":"Nilton José Schneider David",
+"cargo_id":"br-diretor-do-banco-central",
+"cargo":"Diretor do Banco Central do Brasil",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Banco_Central_do_Brasil"
+},
+{
+"data":"2025-01-01",
+"tipo":"posse",
+"pessoa":"Gilneu Francisco Astolfi Vivan",
+"cargo_id":"br-diretor-do-banco-central",
+"cargo":"Diretor do Banco Central do Brasil",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Banco_Central_do_Brasil"
+},
+{
+"data":"2025-01-01",
+"tipo":"posse",
+"pessoa":"Izabela Moreira Correa",
+"cargo_id":"br-diretor-do-banco-central",
+"cargo":"Diretor do Banco Central do Brasil",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Banco_Central_do_Brasil"
+},
+{
+"data":"2025-01-01",
+"tipo":"posse",
+"pessoa":"Edson Fachin",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2025-01-01",
+"tipo":"posse",
+"pessoa":"Silvio Amorim Junior",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2025-01-01",
+"tipo":"posse",
+"pessoa":"Ulisses Rabaneda dos Santos",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2025-01-01",
+"tipo":"posse",
+"pessoa":"Rodrigo Badaró Almeida de Castro",
+"cargo_id":"br-conselheiro-do-cnj",
+"cargo":"Conselheiro do Conselho Nacional de Justiça",
+"interino":false,
+"fonte":"https://pt.wikipedia.org/wiki/Conselho_Nacional_de_Justi%C3%A7a"
+},
+{
+"data":"2024-12-12",
+"tipo":"sabatina",
+"pessoa":"Iagê Zendron Miola",
+"cargo_id":"br-diretor-da-anpd",
+"cargo":"Diretor da ANPD",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/165000"
+},
+{
+"data":"2024-12-12",
+"tipo":"sabatina",
+"pessoa":"Guido Amin Naves",
+"cargo_id":"br-superior-tribunal-militar-ministro",
+"cargo":"Ministro do Superior Tribunal Militar",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166268"
+},
+{
+"data":"2024-12-10",
+"tipo":"sabatina",
+"pessoa":"Gilda Motta Santos Neves",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/165001"
+},
+{
+"data":"2024-12-10",
+"tipo":"sabatina",
+"pessoa":"Daniella Xavier Cesar",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/165002"
+},
+{
+"data":"2024-12-10",
+"tipo":"sabatina",
+"pessoa":"Carlos Ricardo Martins Ceglia",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/165674"
+},
+{
+"data":"2024-12-10",
+"tipo":"sabatina",
+"pessoa":"Felipe Costi Santarosa",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/165673"
+},
+{
+"data":"2024-12-10",
+"tipo":"sabatina",
+"pessoa":"Miguel Griesbach de Pereira Franco",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166050"
+},
+{
+"data":"2024-12-10",
+"tipo":"sabatina",
+"pessoa":"Maria Izabel Vieira",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166052"
+},
+{
+"data":"2024-12-10",
+"tipo":"sabatina",
+"pessoa":"Ana Maria de Souza Bierrenbach",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166256"
+},
+{
+"data":"2024-12-10",
+"tipo":"sabatina",
+"pessoa":"Nilton José Schneider David",
+"cargo_id":"br-diretor-do-banco-central",
+"cargo":"Diretor do Banco Central do Brasil",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166355"
+},
+{
+"data":"2024-12-10",
+"tipo":"sabatina",
+"pessoa":"Izabela Moreira Correa",
+"cargo_id":"br-diretor-do-banco-central",
+"cargo":"Diretor do Banco Central do Brasil",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166356"
+},
+{
+"data":"2024-12-10",
+"tipo":"sabatina",
+"pessoa":"Gilneu Francisco Astolfi Vivan",
+"cargo_id":"br-diretor-do-banco-central",
+"cargo":"Diretor do Banco Central do Brasil",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/166357"
+},
+{
+"data":"2024-10-08",
+"tipo":"sabatina",
+"pessoa":"Gabriel Muricca Galípolo",
+"cargo_id":"br-presidente-do-banco-central",
+"cargo":"Presidente do Banco Central do Brasil",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/165220"
+},
+{
+"data":"2024-08-14",
+"tipo":"sabatina",
+"pessoa":"Flávio Soares Damico",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/164414"
+},
+{
+"data":"2024-08-14",
+"tipo":"sabatina",
+"pessoa":"Marcos Vinicius Pinta Gama",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/164415"
+},
+{
+"data":"2024-08-14",
+"tipo":"sabatina",
+"pessoa":"Ana Lélia Benincá Beltrame",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/164416"
+},
+{
+"data":"2024-07-10",
+"tipo":"sabatina",
+"pessoa":"Samara Furtado Carneiro",
+"cargo_id":"br-anvisa-dirigente",
+"cargo":"Diretor-Presidente da Anvisa",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/163851"
+},
+{
+"data":"2024-07-10",
+"tipo":"sabatina",
+"pessoa":"Marcel Fortuna Biato",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/163295"
+},
+{
+"data":"2024-07-10",
+"tipo":"sabatina",
+"pessoa":"Flávio Helmold Macieira",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/163294"
+},
+{
+"data":"2024-07-10",
+"tipo":"sabatina",
+"pessoa":"Rodrigo de Azeredo Santos",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/163853"
+},
+{
+"data":"2024-07-10",
+"tipo":"sabatina",
+"pessoa":"Luciano Mazza de Andrade",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/164298"
+},
+{
+"data":"2024-07-10",
+"tipo":"sabatina",
+"pessoa":"Rosimar da Silva Suzano",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/164297"
+},
+{
+"data":"2024-07-10",
+"tipo":"sabatina",
+"pessoa":"Eugênia Barthelmess",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/164296"
+},
+{
+"data":"2024-07-10",
+"tipo":"sabatina",
+"pessoa":"Alexandre Henrique Scultori de Azevedo Silva",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/164295"
+},
+{
+"data":"2024-07-10",
+"tipo":"sabatina",
+"pessoa":"Colbert Soares Pinto Junior",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/164294"
+},
+{
+"data":"2024-07-10",
+"tipo":"sabatina",
+"pessoa":"Nedilson Ricardo Jorge",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/164293"
+},
+{
+"data":"2024-07-10",
+"tipo":"sabatina",
+"pessoa":"Rafael de Mello Vidal",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/164413"
+},
+{
+"data":"2024-06-19",
+"tipo":"sabatina",
+"pessoa":"Mariana Gonçalves Madeira",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161376"
+},
+{
+"data":"2024-06-19",
+"tipo":"sabatina",
+"pessoa":"Carlos José Areias Moreno Garcete",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161918"
+},
+{
+"data":"2024-06-19",
+"tipo":"sabatina",
+"pessoa":null,
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/162075"
+},
+{
+"data":"2024-06-19",
+"tipo":"sabatina",
+"pessoa":"André Luís Macagnan Freire",
+"cargo_id":"br-conselheiro-do-cade",
+"cargo":"Conselheiro do Tribunal do Cade",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/163254"
+},
+{
+"data":"2024-06-19",
+"tipo":"sabatina",
+"pessoa":"Alexandre Barreto de Souza",
+"cargo_id":"br-conselheiro-do-cade",
+"cargo":"Conselheiro do Tribunal do Cade",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/163258"
+},
+{
+"data":"2024-06-19",
+"tipo":"sabatina",
+"pessoa":"Antônio Fabrício de Matos Gonçalves",
+"cargo_id":"br-tribunal-superior-do-trabalho-ministro",
+"cargo":"Ministro do Tribunal Superior do Trabalho",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/163854"
+},
+{
+"data":"2023-12-13",
+"tipo":"sabatina",
+"pessoa":"Caio Mário Trivellato Seabra Filho",
+"cargo_id":"br-anm-diretor",
+"cargo":"Diretor da ANM",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161284"
+},
+{
+"data":"2023-12-13",
+"tipo":"sabatina",
+"pessoa":"Leonardo Cardoso de Magalhães",
+"cargo_id":"br-defensor-publico-geral-federal",
+"cargo":"Defensor Público-Geral Federal",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161289"
+},
+{
+"data":"2023-12-13",
+"tipo":"sabatina",
+"pessoa":"Paulo Gustavo Gonet Branco",
+"cargo_id":"br-procurador-geral-da-republica",
+"cargo":"Procurador-Geral da República",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161291"
+},
+{
+"data":"2023-12-13",
+"tipo":"sabatina",
+"pessoa":"Flávio Dino de Castro e Costa",
+"cargo_id":"br-supremo-tribunal-federal-ministro",
+"cargo":"Ministro do Supremo Tribunal Federal",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161290"
+},
+{
+"data":"2023-12-12",
+"tipo":"sabatina",
+"pessoa":null,
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/158168"
+},
+{
+"data":"2023-12-12",
+"tipo":"sabatina",
+"pessoa":"Maria Elisa Teófilo de Luna",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/160911"
+},
+{
+"data":"2023-12-12",
+"tipo":"sabatina",
+"pessoa":"Maria Cristina de Castro Martins",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/160912"
+},
+{
+"data":"2023-12-12",
+"tipo":"sabatina",
+"pessoa":"Paulo Picchetti",
+"cargo_id":"br-diretor-do-banco-central",
+"cargo":"Diretor do Banco Central do Brasil",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161128"
+},
+{
+"data":"2023-12-12",
+"tipo":"sabatina",
+"pessoa":"Rodrigo Alves Teixeira",
+"cargo_id":"br-diretor-do-banco-central",
+"cargo":"Diretor do Banco Central do Brasil",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161127"
+},
+{
+"data":"2023-12-12",
+"tipo":"sabatina",
+"pessoa":"José Levi Mello do Amaral Júnior",
+"cargo_id":"br-conselheiro-do-cade",
+"cargo":"Conselheiro do Tribunal do Cade",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161236"
+},
+{
+"data":"2023-12-12",
+"tipo":"sabatina",
+"pessoa":"Camila Cabral Pires Alves",
+"cargo_id":"br-conselheiro-do-cade",
+"cargo":"Conselheiro do Tribunal do Cade",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161237"
+},
+{
+"data":"2023-12-12",
+"tipo":"sabatina",
+"pessoa":"Diogo Thomson de Andrade",
+"cargo_id":"br-conselheiro-do-cade",
+"cargo":"Conselheiro do Tribunal do Cade",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161238"
+},
+{
+"data":"2023-12-12",
+"tipo":"sabatina",
+"pessoa":"Carlos Jacques Vieira Gomes",
+"cargo_id":"br-conselheiro-do-cade",
+"cargo":"Conselheiro do Tribunal do Cade",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161239"
+},
+{
+"data":"2023-12-12",
+"tipo":"sabatina",
+"pessoa":"Glivânia Maria de Oliveira",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161286"
+},
+{
+"data":"2023-12-12",
+"tipo":"sabatina",
+"pessoa":"Daniel Walter Maeda Bernardo",
+"cargo_id":"br-diretor-da-cvm",
+"cargo":"Diretor da CVM",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161299"
+},
+{
+"data":"2023-12-12",
+"tipo":"sabatina",
+"pessoa":"Marina Palma Copola de Carvalho",
+"cargo_id":"br-diretor-da-cvm",
+"cargo":"Diretor da CVM",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/161300"
+},
+{
+"data":"2023-10-25",
+"tipo":"sabatina",
+"pessoa":"Igor Roberto Albuquerque Roque",
+"cargo_id":"br-defensor-publico-geral-federal",
+"cargo":"Defensor Público-Geral Federal",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/158096"
+},
+{
+"data":"2023-10-25",
+"tipo":"sabatina",
+"pessoa":"Rodrigo D'araujo Gabsch",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/159626"
+},
+{
+"data":"2023-10-25",
+"tipo":"sabatina",
+"pessoa":"Carlos Luís Dantas Coutinho Perez",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/159627"
+},
+{
+"data":"2023-10-25",
+"tipo":"sabatina",
+"pessoa":"Daniela Rodrigues Teixeira",
+"cargo_id":"br-superior-tribunal-de-justica-ministro",
+"cargo":"Ministro do Superior Tribunal de Justiça",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/159982"
+},
+{
+"data":"2023-10-25",
+"tipo":"sabatina",
+"pessoa":"Teodoro Silva Santos",
+"cargo_id":"br-superior-tribunal-de-justica-ministro",
+"cargo":"Ministro do Superior Tribunal de Justiça",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/159983"
+},
+{
+"data":"2023-10-25",
+"tipo":"sabatina",
+"pessoa":"José Afrânio Vilela",
+"cargo_id":"br-superior-tribunal-de-justica-ministro",
+"cargo":"Ministro do Superior Tribunal de Justiça",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/159985"
+},
+{
+"data":"2023-09-20",
+"tipo":"sabatina",
+"pessoa":"Gustavo Rocha de Menezes",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/158946"
+},
+{
+"data":"2023-09-13",
+"tipo":"sabatina",
+"pessoa":"Paulo Xavier Alcoforado",
+"cargo_id":"br-ancine-diretor",
+"cargo":"Diretor da Ancine",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/158577"
+},
+{
+"data":"2023-09-13",
+"tipo":"sabatina",
+"pessoa":"Maria Edileuza Fontenele Reis",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/158899"
+},
+{
+"data":"2023-09-13",
+"tipo":"sabatina",
+"pessoa":"Gilberto Fonseca Guimarães de Moura",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/158904"
+},
+{
+"data":"2023-09-13",
+"tipo":"sabatina",
+"pessoa":"Maria Clara Duclos Carisio",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/158898"
+},
+{
+"data":"2023-09-13",
+"tipo":"sabatina",
+"pessoa":"Marcelo Otávio Dantas Loures da Costa",
+"cargo_id":"br-ministerio-das-relacoes-exteriores",
+"cargo":"Ministério das Relações Exteriores",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/158945"
+},
+{
+"data":"2023-09-13",
+"tipo":"sabatina",
+"pessoa":"Marcos de Brito Campos Júnior",
+"cargo_id":"br-dnit-dirigente",
+"cargo":"Diretor-Geral do DNIT",
+"interino":false,
+"fonte":"https://www25.senado.leg.br/web/atividade/materias/-/materia/159438"
+}
+]
